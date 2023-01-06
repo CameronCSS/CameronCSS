@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CameronCSS
-- 👀 I’m interested in Data, especcially Data that can tell stories through exploration.
+- 👀 I’m interested in Data, especcially Data that can tell a story.
 - 🌱 I’m currently learning Python.
 - 📫 Reach me CameronSeamons@gmail.com
 
