@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CameronCSS
 - 👀 I’m interested in Data, especcially Data that can tell a story.
-- 🌱 I’m currently learning Python.
+- 🌱 I am constantly refining my SQL skills and Database knowledge.
 - 📫 Reach me CameronSeamons@gmail.com
 
 <!---
