@@ -1,7 +1,7 @@
 ## About Me
 
 As a data professional with a passion for visualization and storytelling, 
-my goal is to utilize my skills in SQL, Power BI, and Python to turn complex data sets into easily understandable insights.
+my goal is to utilize my skills in SQL, Power BI, Tableau, and Python to turn complex data sets into easily understandable insights.
 With a background in project management and business analysis, I have the ability and drive to effectively communicate findings and collaborate with cross-functional teams. 
 
 I am always seeking new opportunities to learn and grow as a data analyst, and am excited to be a part of a community of like-minded data nerds.
