@@ -1,6 +1,6 @@
 ## About Me
 Strong problem solver, ability to identify and analyze complex issues, self motivated, endlessly looking to improve. 
-My goal is to utilize my skills in SQL, Power BI, Tableau, and Python to turn complex data sets into easy to understand visuals that get everyone interested in the insights.";
+My goal is to utilize my skills in SQL, Power BI, Tableau, and Python to turn complex data sets into easy to understand visuals that get everyone interested in the insights.
 
 
 <h3 align="left"> <a href = "https://github.com/CameronCSS/PersonalProjects"> View My Portfolio</a> </h3>
