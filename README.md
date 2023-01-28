@@ -7,7 +7,7 @@ My goal is to utilize my skills in SQL, Power BI, Tableau, and Python to turn co
 
 ## Experience
 
-### SQL
+### SQL Queries
   - Google data analytics professional certificate
   - Completed Khan Academy - Intro to SQL Course
   - Finished the SQLBolt - Learn SQL Training
@@ -18,7 +18,7 @@ My goal is to utilize my skills in SQL, Power BI, Tableau, and Python to turn co
    - API pulls and database building
    - Full analysis and reports on data
    - Buidling finished Dashboards
-### Programming
+### Programming languages / Code
   - Google data analytics professional certificate (**R*) 
   - Completed Kaggle 'Intro to Programming' Course (**Python*)
   - C# app building in High School
