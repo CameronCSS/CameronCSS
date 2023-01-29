@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+<br>
 ## About Me
 A passionate data analyst dedicated to uncovering valuable insights hidden within complex data sets.
 Strong problem solver, ability to identify and analyze complex issues, self motivated, endlessly looking to improve. 
