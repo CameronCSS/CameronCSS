@@ -21,8 +21,8 @@ My goal is to utilize my skills in SQL, Power BI, Tableau, and Python to turn co
 ### Programming languages / Code
   - Google data analytics professional certificate (**R*) 
   - Completed Kaggle 'Intro to Programming' Course (**Python*)
-  - C# app building in High School
   - Built out a few simple programs in Python through Self Learning
+  - C# app building in High School
 
 ----
 <h3 align="left">Languages and Tools:</h3>
