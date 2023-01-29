@@ -30,7 +30,7 @@ My goal is to utilize my skills in SQL, Power BI, Tableau, and Python to turn co
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&theme=transparent)](https://cameroncss.github.io/)
 <br>
-![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CameronCSS&show_icons=true&theme=transparent&hide=prs,issues)
+![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CameronCSS&show_icons=true&theme=transparent&hide=issues,contribs)
 
 ## Contact Me
 
