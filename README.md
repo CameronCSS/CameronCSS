@@ -7,25 +7,6 @@ Currently seeking new opportunities. <li><a href="#contact-me">Contact Me</a></l
 
 <h3 align="left"> <a href = "https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"> View My Portfolio</a> </h3>
 
-## Experience
-
-### SQL Queries
-  - Google data analytics professional certificate
-  - Completed Khan Academy - Intro to SQL Course
-  - Finished the SQLBolt - Learn SQL Training
-  - Case Study 'Data with Danny' 8 Week SQL Challenge
-### Data Analysis / Visuals
-   - Power BI / Tableau Visual Reports
-   - Case study and data breakdowns
-   - API pulls and database building
-   - Full analysis and reports on data
-   - Buidling finished Dashboards
-### Programming languages / Code
-  - Google data analytics professional certificate (**R*) 
-  - Completed Kaggle 'Intro to Programming' Course (**Python*)
-  - Built out a few simple programs in Python through Self Learning
-  - C# app building in High School
-
 ----
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> </p>
