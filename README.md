@@ -16,11 +16,10 @@ Currently seeking new opportunities. <li><a href="#contact-me">Contact Me</a></l
 ![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CameronCSS&show_icons=true&theme=transparent&hide=issues,contribs)
 
 ## Contact Me
-
 <div style="display: flex;">
   <table style="flex: 1;">
   
-| Contact Method |
+||
 | --- |
 | :e-mail: :heavy_minus_sign: CameronSeamons@gmail.com |
 | <a href="https://www.linkedin.com/in/cameron-css/">![linkedin](https://user-images.githubusercontent.com/121735588/215363352-ad51a5e1-0de8-48be-8ceb-28c610e5d34d.png)</a> :heavy_minus_sign: https://www.linkedin.com/in/cameron-css/|
