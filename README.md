@@ -15,7 +15,7 @@ Strong problem solver, ability to identify and analyze complex issues, self moti
 ----
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres,python,java,html,react,r,vscode,ps,blender,css,github&perline=6)
+![My Skills](https://skillicons.dev/icons?i=mysql,python,java,html,react,r,vscode,ps,css,blender&perline=5)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&theme=transparent&langs_count=6)](https://cameroncss.github.io/)
