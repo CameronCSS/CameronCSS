@@ -1,9 +1,14 @@
 <a name="readme-top"></a>
 <a name="contact-me"></a>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=CameronCSS&style=flat" alt="">
+</p>
+
 ## About
 Strong problem solver, ability to identify and analyze complex issues, self motivated, endlessly looking to improve. My goal is to utilize my skills in SQL, Power BI, Tableau, and Python to turn complex data sets into easy to understand visuals that get everyone interested in the insights.
 
-Currently seeking new opportunities. <li><a href="#contact-me">Contact Me</a></li>
+**Currently seeking new opportunities.** <li><a href="#contact-me">Contact Me</a></li>
 
 <h3 align="left"> <a href = "https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"> View My Portfolio</a> </h3>
 
@@ -32,10 +37,6 @@ Currently seeking new opportunities. <li><a href="#contact-me">Contact Me</a></l
     </a>
   </p>
 </div>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=CameronCSS&style=flat" alt="">
-</p>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
