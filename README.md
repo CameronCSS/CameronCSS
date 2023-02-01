@@ -5,6 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=CameronCSS&style=flat" alt="">
 </p>
 
+![github-header-image](https://user-images.githubusercontent.com/121735588/215953406-df9b3a17-4e2e-42f8-bc55-796b8a0d3795.png)
+
+
 ## About
 Strong problem solver, ability to identify and analyze complex issues, self motivated, endlessly looking to improve. My goal is to utilize my skills in SQL, Power BI, Tableau, and Python to turn complex data sets into easy to understand visuals that get everyone interested in the insights.
 
