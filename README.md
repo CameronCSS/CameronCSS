@@ -13,7 +13,7 @@ Strong problem solver, ability to identify and analyze complex issues, self moti
 
 **Currently seeking new opportunities.** <li><a href="#contact-me">Contact Me</a></li>
 
-<h3 align="left"> <a href = "https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"> View My Portfolio</a> </h3>
+<h3 align="left"> :arrow_forward: <a href = "https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"> View My Portfolio</a> </h3>
 
 ----
 <a name="Currently-working-on"></a>
