@@ -16,6 +16,15 @@ Strong problem solver, ability to identify and analyze complex issues, self moti
 <h3 align="left"> <a href = "https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"> View My Portfolio</a> </h3>
 
 ----
+<a name="Currently-working-on"></a>
+## Currently working on
+
+- 📊 Power BI Deep dive - I am currently building several reports in Power BI to showcase my personal understanding of what it can do
+- 📝 I’m currently working on a report about <a href = "https://github.com/CameronCSS/Data-Analysis/tree/main/SLC%20Homless%20Data"> **SLC Homeless numbers </a> after shutting down Homeless Centers**
+- :soon: Finishing up Week #2 of the <a href ="https://github.com/CameronCSS/SQL-Projects/tree/main/8%20Week%20SQL%20Challenge%20%23%201"> 8 Week SQL Challenge </a> with SQL query answer breakdowns.
+- ⚡ Expanding my knowledge of Python and pandas library**
+
+----
 <h3 align="left">Languages and Tools:</h3>
 
 <img src="https://user-images.githubusercontent.com/121735588/215948404-4d1bd4c2-0758-46bf-bc08-52e78f0b4bc8.PNG" width="300">
