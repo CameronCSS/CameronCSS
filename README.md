@@ -19,9 +19,9 @@ Strong problem solver, ability to identify and analyze complex issues, self moti
 <a name="Currently-working-on"></a>
 ## Currently working on
 
-- 📊 Power BI Deep dive - I am currently building reports in Power BI to showcase my personal understanding of what it can do
+- 📊 <a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards/README.md">Power BI</a> Deep dive - I am currently building reports in Power BI to showcase my personal understanding of what it can do
 - :soon: Finishing up Week #2 of the <a href ="https://github.com/CameronCSS/SQL-Projects/tree/main/8%20Week%20SQL%20Challenge%20%23%201"> 8 Week SQL Challenge </a> with SQL query answer breakdowns.
-- ⚡ Expanding my knowledge of Python and pandas library**
+- ⚡ Expanding my knowledge of <a href="https://github.com/CameronCSS/Programming-Languages/blob/main/README.md">Python</a> and pandas library**
 
 ----
 <h3 align="left">Languages and Tools:</h3>
