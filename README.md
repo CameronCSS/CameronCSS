@@ -8,10 +8,13 @@
 ![github-header-image](https://user-images.githubusercontent.com/121735588/215953406-df9b3a17-4e2e-42f8-bc55-796b8a0d3795.png)
 
 
-## About
-Strong problem solver, ability to identify and analyze complex issues, self motivated, endlessly looking to improve. My goal is to utilize my skills in SQL, Power BI, Tableau, and Python to turn complex data sets into easy to understand visuals that get everyone interested in the insights.
+---
+I'm a data expert who specializes in business analysis, complex visualizations, and telling stories with data.
+
+<br>
 
 **Currently seeking new opportunities.** <li><a href="https://cameroncss.com/#contact">Contact Me</a></li>
+<li><a href="https://cameroncss.com/#about">About Me</a></li>
 
 <h3 align="left"> :arrow_forward: <a href = "https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"> View My Projects</a> </h3>
 
