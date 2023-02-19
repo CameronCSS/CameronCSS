@@ -36,6 +36,7 @@ I'm a data expert who specializes in business analysis, complex visualizations, 
   <img height="45" width="45" src="https://cdn.simpleicons.org/Tableau/" />
   <img height="45" width="45" src="https://cdn.simpleicons.org/Powerbi" />
   <img height="45" width="45" src="https://cdn.simpleicons.org/react" />
+  <img height="45" width="45" src="https://cdn.simpleicons.org/html5" />
   <br>
   <img height="45" width="45" src="https://cdn.simpleicons.org/MicrosoftExcel/" />
   <img height="45" width="45" src="https://cdn.simpleicons.org/r/" />
@@ -43,6 +44,7 @@ I'm a data expert who specializes in business analysis, complex visualizations, 
   <img height="45" width="45" src="https://cdn.simpleicons.org/blender/" />
   <img height="45" width="45" src="https://cdn.simpleicons.org/VisualStudio/" />
   <img height="45" width="45" src="https://cdn.simpleicons.org/github/lightgray" />
+  <img height="45" width="45" src="https://cdn.simpleicons.org/css3" />
 </div>
 
 <br>
