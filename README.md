@@ -42,7 +42,7 @@ I'm a data expert who specializes in business analysis, complex visualizations, 
   <img height="45" width="45" src="https://cdn.simpleicons.org/adobephotoshop/" />
   <img height="45" width="45" src="https://cdn.simpleicons.org/blender/" />
   <img height="45" width="45" src="https://cdn.simpleicons.org/VisualStudio/" />
-  <img height="45" width="45" src="https://cdn.simpleicons.org/github" />
+  <img height="45" width="45" src="https://cdn.simpleicons.org/github/lightgray" />
 </div>
 
 <br>
