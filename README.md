@@ -29,22 +29,21 @@ I'm a data expert who specializes in business analysis, complex visualizations, 
 ----
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img height="45" width="45" src="https://cdn.simpleicons.org/MySQL/" />
-  <img height="45" width="45" src="https://cdn.simpleicons.org/Python/" />
-  <img height="45" width="45" src="https://cdn.simpleicons.org/JavaScript/" />
-  <img height="45" width="45" src="https://cdn.simpleicons.org/Tableau/" />
-  <img height="45" width="45" src="https://cdn.simpleicons.org/Powerbi" />
-  <img height="45" width="45" src="https://cdn.simpleicons.org/react" />
-  <img height="45" width="45" src="https://cdn.simpleicons.org/html5" />
-  <br>
-  <img height="45" width="45" src="https://cdn.simpleicons.org/MicrosoftExcel/" />
-  <img height="45" width="45" src="https://cdn.simpleicons.org/r/" />
-  <img height="45" width="45" src="https://cdn.simpleicons.org/adobephotoshop/" />
-  <img height="45" width="45" src="https://cdn.simpleicons.org/blender/" />
-  <img height="45" width="45" src="https://cdn.simpleicons.org/VisualStudio/" />
-  <img height="45" width="45" src="https://cdn.simpleicons.org/github/lightgray" />
-  <img height="45" width="45" src="https://cdn.simpleicons.org/css3" />
+<div>
+<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/MySQL" />
+<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Python/FFA800" />
+<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Tableau" />
+<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Powerbi" />
+<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/MicrosoftExcel" />
+<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/r" />
+<br>
+<br>
+<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/JavaScript" />
+<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/blender" />
+<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/react" />
+<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/VisualStudio" />
+<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/github/lightgray" />
+<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/adobephotoshop" />
 </div>
 
 <br>
