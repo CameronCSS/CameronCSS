@@ -9,7 +9,7 @@
 
 
 ---
-I'm a data expert who specializes in business analysis, complex visualizations, and telling stories with data.
+A data expert who specializes in business analysis, complex visualizations, and telling stories with data.
 
 <br>
 
