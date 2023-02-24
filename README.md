@@ -9,7 +9,7 @@
 
 
 ---
-A data expert who specializes in business analysis, complex visualizations, and telling stories with data.
+Data expert who specializes in business analysis, complex visualizations, and telling stories with data.
 
 <br>
 
