@@ -16,7 +16,7 @@ Data expert who specializes in business analysis, complex visualizations, and te
 **Currently seeking new opportunities.** <li><a href="https://cameroncss.com/#contact">Contact Me</a></li>
 <li><a href="https://cameroncss.com/#about">About Me</a></li>
 
-<h3 align="left"> :arrow_forward: <a href = "https://github.com/CameronCSS/PersonalProjects/blob/main/README.md"> View My Projects</a> </h3>
+<h3 align="left"> :arrow_forward: <a href = "https://github.com/CameronCSS/PersonalProjects"> View My Projects</a> </h3>
 
 ----
 <a name="Currently-working-on"></a>
