@@ -22,8 +22,8 @@ Data expert who specializes in business analysis, complex visualizations, and te
 <a name="Currently-working-on"></a>
 ## Currently working on
 
-- 📊 <a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards">Power BI</a> Deep dive - I am currently building reports in Power BI to showcase my personal understanding of what it can do
-- :soon: Finishing up Week #2 of the <a href ="https://github.com/CameronCSS/SQL-Projects/tree/main/8%20Week%20SQL%20Challenge%20%23%201"> 8 Week SQL Challenge </a> with SQL query answer breakdowns.
+- 📊 Started a Daily Challenge > <a href ="https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis"> exploratory data analysis </a> using scenario questions provided by ChatGPT.
+- :computer: <a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards">Power BI</a> Deep dive - I am currently building reports in Power BI to showcase my personal understanding of what it can do
 - ⚡ Expanding my knowledge of <a href="https://github.com/CameronCSS/Programming-Languages">Python</a> and pandas library**
 
 ----
