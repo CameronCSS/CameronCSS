@@ -22,7 +22,7 @@ Data expert who specializes in turning raw nuggets of Data into Golden insights.
 <a name="Currently-working-on"></a>
 ## Currently working on
 
-- 📊 Started a Daily Challenge > <a href ="https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis"> exploratory data analysis </a> using scenario questions provided by ChatGPT.
+- 📊 Started a Data Challenge > <a href ="https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis"> exploratory data analysis </a> using scenario questions provided by ChatGPT.
 - :computer: <a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards">Power BI</a> Deep dive - I am currently building reports in Power BI to showcase my personal understanding of what it can do
 - ⚡ Expanding my knowledge of <a href="https://github.com/CameronCSS/Programming-Languages">Python</a> and pandas library**
 
