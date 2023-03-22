@@ -9,7 +9,7 @@
 
 
 ---
-Data expert who specializes in business analysis, complex visualizations, and telling stories with data.
+Data expert who specializes in turning raw nuggets of Data into Golden insights.
 
 <br>
 
