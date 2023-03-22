@@ -9,7 +9,7 @@
 
 
 ---
-Data expert who specializes in turning raw nuggets of Data into Golden insights.
+Data enthusiast who loves turning raw nuggets of Data into Golden insights.
 
 <br>
 
