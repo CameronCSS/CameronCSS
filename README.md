@@ -29,37 +29,34 @@ Data enthusiast who loves turning raw nuggets of Data into Golden insights.
 ----
 <h3 align="left">Languages and Tools:</h3>
 
-<div>
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/MySQL" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Python/FFA800" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Tableau" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Powerbi" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/MicrosoftExcel" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/r" />
-<br>
-<br>
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/JavaScript" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/blender" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/react" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/VisualStudio" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/github/lightgray" />
-<img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/adobephotoshop" />
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://cameroncss.com">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&theme=transparent&langs_count=6" alt="Top Langs" />
+      </a>
+    </td>
+    <td>
+      <div>
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/MySQL" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Python/FFA800" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Tableau" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Powerbi" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/MicrosoftExcel" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/r" />
+        <br>
+        <br>
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/JavaScript" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/blender" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/react" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/VisualStudio" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/github/lightgray" />
+        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/adobephotoshop" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&theme=transparent&langs_count=6)](https://cameroncss.com)
-<br>
-![Cameron's GitHub stats](https://github-readme-stats.vercel.app/api?username=CameronCSS&show_icons=true&theme=transparent&hide=issues,contribs)
-
-
-  </table>
-  <p style="margin-left: auto;">
-    <a href="https://docs.google.com/document/d/1idTVL4nRGOejqW6EkpfhsD-dNQRLzmX08y5hI3TYLns/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
-      <img src="https://user-images.githubusercontent.com/121735588/215364205-abdfc0ac-53db-4733-8d43-b57c1bafb802.png" alt="Resume button">
-    </a>
-  </p>
-</div>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
