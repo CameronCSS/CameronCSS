@@ -9,7 +9,7 @@
 
 
 ---
-Data enthusiast who loves turning raw nuggets of Data into Golden insights.
+𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 · Specialist in data-driven Strategies · Data Chef Turning Raw Data into Golden nuggets
 
 <br>
 
