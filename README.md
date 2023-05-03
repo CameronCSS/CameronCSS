@@ -5,58 +5,44 @@
   <img src="https://komarev.com/ghpvc/?username=CameronCSS&style=flat" alt="">
 </p>
 
-![github-header-image](https://user-images.githubusercontent.com/121735588/215953406-df9b3a17-4e2e-42f8-bc55-796b8a0d3795.png)
+Introducing Myself 👋
 
-
----
-𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 · Specialist in data-driven Strategies · Data Chef Turning Raw Data into Golden nuggets
+Hello there!
+I'm Cameron, a data analyst from Utah. With a background in retail and sales, I transitioned to Data in late 2022 and have been learning SQL, Tableau, Power BI, R, and Python.
 
 <br>
 
-**Currently seeking new opportunities.** <li><a href="https://cameroncss.com/#contact">Contact Me</a></li>
-<li><a href="https://cameroncss.com/#about">About Me</a></li>
+### 📊 Projects & Guides 📚
 
-<h3 align="left"> :arrow_forward: <a href = "https://github.com/CameronCSS/PersonalProjects"> View My Projects</a> </h3>
+In my github portfolio, you can find all my [projects](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md) centered around data analytics, <br>
+including my linkedin guide 'Picking Colors for your Dashboard'
 
-----
-<a name="Currently-working-on"></a>
-## Currently working on
 
-- 📊 Started a Data Challenge > <a href ="https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis"> exploratory data analysis </a> using scenario questions provided by ChatGPT.
-- :computer: <a href="https://github.com/CameronCSS/Data-Analysis/blob/main/Power-BI-Dashboards">Power BI</a> Deep dive - I am currently building reports in Power BI to showcase my personal understanding of what it can do
-- ⚡ Expanding my knowledge of <a href="https://github.com/CameronCSS/Programming-Languages">Python</a> and pandas library**
+<br>
 
-----
-<h3 align="left">Languages and Tools:</h3>
+### 💡 Skills <br>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://cameroncss.com">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&theme=transparent&langs_count=6" alt="Top Langs" />
-      </a>
-    </td>
-    <td>
-      <div>
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/MySQL" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Python/FFA800" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Tableau" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/Powerbi" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/MicrosoftExcel" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/r" />
-        <br>
-        <br>
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/JavaScript" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/blender" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/react" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/VisualStudio" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/github/lightgray" />
-        <img height="45" width="45" style="padding-right: 10px" src="https://cdn.simpleicons.org/adobephotoshop" />
-      </div>
-    </td>
-  </tr>
-</table>
+* Data Cleaning, quality assurance, and Ad Hoc analysis <br>
+* Dashboard development and reporting <br>
+* Data analytics teaching and storytelling <br>
+* Exploratory data analysis <br>
 
+
+### 🛠️ Tools <br>
+
+* Databases: Excel, SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Snowflake <br>
+* Visualisation: Tableau, Power BI, R ggplot, Python plotly and Matplotlib <br>
+* Python: NumPy, Pandas, ydata, Scrapy <br>
+
+
+
+
+### 💬 Connect with Me <br>
+
+* [Linkedin](https://www.linkedin.com/in/cameron-css/) <br>
+* [Portfolio](https://cameroncss.com/) <br>
+* [Kaggle](https://www.kaggle.com/cameronseamons) <br>
+ 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
