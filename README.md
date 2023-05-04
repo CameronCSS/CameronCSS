@@ -29,10 +29,25 @@ including my linkedin guide 'Picking Colors for your Dashboard'
 
 ### 🛠️ Tools <br>
 
-* Databases: Excel, SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery), Snowflake <br>
-* Visualization: Tableau, Power BI, R (ggplot), Python (plotly and Matplotlib), Looker Studio <br>
-* Python: NumPy, Pandas, ydata, Scrapy <br>
+* Databases: 
+  * Excel
+  * SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery)
+  * Snowflake <br>
+<br>
 
+* Visualization:
+  * Tableau
+  * Power BI
+  * R (ggplot)
+  * Python (plotly and Matplotlib)
+  * Looker Studio <br>
+<br>
+
+* Python:
+  * Pandas
+  * NumPy
+  * ydata
+  * Scrapy <br>
 
 
 
