@@ -23,7 +23,8 @@ including my linkedin guide 'Picking Colors for your Dashboard'
 
 * Data Cleaning, quality assurance, and Ad Hoc analysis <br>
 * Dashboard development and reporting <br>
-* Data analytics teaching and storytelling <br>
+* Data analytics
+* Data mentor, Article writing and storytelling <br>
 * Exploratory data analysis <br>
 
 
