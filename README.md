@@ -5,9 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=CameronCSS&style=flat" alt="">
 </p>
 
-# Introducing Myself 👋
+# Hi there! 👋
 
-Hello there!
 I'm Cameron, a data analyst from Utah. With a background in retail and sales, I transitioned to Data in late 2022 and have been learning SQL, Tableau, Power BI, R, and Python.
 
 <br>
