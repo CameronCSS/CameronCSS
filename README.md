@@ -11,9 +11,17 @@ I'm Cameron, a data analyst from Utah. With a background in retail and sales, I 
 
 <br>
 
-### 📊 Projects 📚
+### 📊 Projects and Guides 📚
 
-You can find all my data analytics projects 👉 [here](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md)
+You can find my Github Data analytics repo 👉 [Here](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md)
+<br>
+
+|Data Guides|Article Links|
+|---|---|
+|Dashboard Color Design Guide | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7060457908592939008/)|
+|Free Datasets Resource | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7054106303060709377/)|
+|REGEXP SQL Basics Part 1| [Link](https://www.linkedin.com/feed/update/urn:li:activity:7057360246314340352/)|
+|REGEXP SQL Basics Part 2| [Link](https://www.linkedin.com/feed/update/urn:li:activity:7057712477089771521/)|
 
 <br>
 
@@ -37,15 +45,19 @@ You can find all my data analytics projects 👉 [here](https://github.com/Camer
   * Tableau
   * Power BI
   * R (ggplot)
-  * Python (plotly and Matplotlib)
+  * Python (plotly, Matplotlib, seaborn)
   * Looker Studio <br>
 <br>
 
 * Python:
-  * Pandas
-  * NumPy
+  * pandas
+  * numPy
   * ydata
-  * Scrapy <br>
+  * scrapy 
+  * matplotlib
+  * seaborn
+  * plotly
+  * xgboost <br>
 
 
 
