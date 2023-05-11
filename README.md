@@ -11,11 +11,9 @@ I'm Cameron, a data analyst from Utah. With a background in retail and sales, I 
 
 <br>
 
-### 📊 Projects & Guides 📚
+### 📊 Projects 📚
 
-In my github portfolio, you can find all my [projects](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md) centered around data analytics, <br>
-including my linkedin guide 'Picking Colors for your Dashboard'
-
+You can find all my data analytics projects 👉 [here](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md)
 
 <br>
 
