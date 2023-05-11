@@ -7,8 +7,8 @@
 
 # Hi there! 👋
 
-I'm Cameron, a data analyst from Utah. <br>
-With a background in retail and sales, I transitioned to Data in late 2022 and have been mastering SQL, Tableau, Power BI, R, and Python.
+I'm Cameron, a data analyst from Utah. I've dabbled in programming and computer science since early high school. <br>
+I've been in Retail for over 10 years and developed a Passion for Data and transitioned to Data Analytics in late 2022 and have been mastering SQL, Tableau, Power BI, R, and Python.
 
 <br>
 
