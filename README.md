@@ -21,8 +21,8 @@ You can find my Github Data analytics repo 👉 [Here](https://github.com/Camero
 |---|---|
 |Dashboard Color Design Guide | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7060457908592939008/)|
 |Free Datasets Resource | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7054106303060709377/)|
-|REGEXP SQL Basics Part 1| [Link](https://www.linkedin.com/feed/update/urn:li:activity:7057360246314340352/)|
 |Graph DOs and DONTs| [Link](https://www.linkedin.com/feed/update/urn:li:activity:7064663920539537409/)|
+|REGEXP SQL Basics Part 1| [Link](https://www.linkedin.com/feed/update/urn:li:activity:7057360246314340352/)|
 
 <br>
 
