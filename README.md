@@ -66,7 +66,6 @@ You can find my Github Data analytics repo 👉 [Here](https://github.com/Camero
 
 * [Linkedin](https://www.linkedin.com/in/cameron-css/) <br>
 * [Portfolio](https://cameroncss.com/) <br>
-* [Kaggle](https://www.kaggle.com/cameronseamons) <br>
  
 
 
