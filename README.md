@@ -8,7 +8,7 @@
 # Hi there! 👋
 
 I'm Cameron, a data analyst from Utah. <br>
-I transitioned to Data in late 2022 and have been mastering my skills in SQL, Tableau, Power BI, R, and Python.
+I transitioned to Data in late 2022 and have been mastering my skills in SQL, Excel, Power BI, Tableau, Python, and R.
 
 <br>
 
