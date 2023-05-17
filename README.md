@@ -12,7 +12,7 @@ I transitioned to Data in late 2022 and have been mastering my skills in SQL, Ex
 
 <br>
 
-### 📊 Projects and Guides 📚
+### 📚 Projects and Guides 📉
 
 You can find my Github Data analytics repo 👉 [Here](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md)
 <br>
@@ -36,13 +36,13 @@ You can find my Github Data analytics repo 👉 [Here](https://github.com/Camero
 
 ### 🛠️ Tools <br>
 
-* Databases: 
+* Databases 🗄️: 
   * Excel
   * SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery)
   * Snowflake <br>
 <br>
 
-* Visualization:
+* Visualization 📊:
   * Tableau
   * Power BI
   * R (ggplot)
@@ -50,7 +50,7 @@ You can find my Github Data analytics repo 👉 [Here](https://github.com/Camero
   * Looker Studio <br>
 <br>
 
-* Python:
+* Python 🐍:
   * pandas
   * numPy
   * ydata
