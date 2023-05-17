@@ -7,7 +7,7 @@
 
 # Hi there! 👋
 
-I'm Cameron, a data analyst from Utah. <br>
+I'm Cameron, a Data Analyst from Utah. <br>
 I transitioned to Data in late 2022 and have been mastering my skills in SQL, Excel, Power BI, Tableau, Python, and R.
 
 <br>
@@ -43,11 +43,12 @@ You can find my Github Data analytics repo 👉 [Here](https://github.com/Camero
 <br>
 
 * Visualization 📊:
-  * Tableau
   * Power BI
+  * Tableau
+  * Looker Studio
+  * Excel
   * R (ggplot)
-  * Python (plotly, Matplotlib, seaborn)
-  * Looker Studio <br>
+  * Python (plotly, Matplotlib, seaborn) <br>
 <br>
 
 * Python 🐍:
