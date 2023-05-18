@@ -19,11 +19,11 @@ You can find my Github Data analytics repo 👉 [Here](https://github.com/Camero
 
 |Data Guides|Article Links|
 |---|---|
-|Dashboard Color Design Guide | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7060457908592939008/)|
-|Free Datasets Resource | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7054106303060709377/)|
-|Dashboard Color Checker| [Link](https://cloud.squirrel365.io/viewer/EE95D322FE4B4278B870DE8D06B316D2)|
-|Graph DOs and DONTs| [Link](https://www.linkedin.com/feed/update/urn:li:activity:7064663920539537409/)|
-|REGEXP SQL Basics| [Link](https://www.linkedin.com/feed/update/urn:li:activity:7057360246314340352/)|
+|🎨 Dashboard Color Design Guide | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7060457908592939008/)|
+|🖥️ Free Datasets Resource | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7054106303060709377/)|
+|📊Dashboard Color Checker| [Link](https://cloud.squirrel365.io/viewer/EE95D322FE4B4278B870DE8D06B316D2)|
+|📈 Graph DOs and DONTs| [Link](https://www.linkedin.com/feed/update/urn:li:activity:7064663920539537409/)|
+|🔤 REGEXP SQL Basics| [Link](https://www.linkedin.com/feed/update/urn:li:activity:7057360246314340352/)|
 
 <br>
 
