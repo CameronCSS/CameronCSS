@@ -14,10 +14,11 @@ I transitioned to Data in late 2022 and have been mastering my skills in SQL, Ex
 
 ### 📚 Projects and Guides 📉
 
-You can find my Github Data analytics repo 👉 [Here](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md)
+[👉 Data Projects repo](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md)
+<br>
 <br>
 
-|Data Guides|Article Links|
+|Guides|Project Links|
 |---|---|
 |🎨 Dashboard Color Guide | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7060457908592939008/)|
 |📊 Dashboard Color App| [Link](https://cloud.squirrel365.io/viewer/EE95D322FE4B4278B870DE8D06B316D2)|
