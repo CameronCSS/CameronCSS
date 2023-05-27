@@ -14,9 +14,11 @@ I transitioned to Data in late 2022 and have been mastering my skills in SQL, Ex
 
 ### 📚 Projects and Guides 📉
 
-[👉 Data Projects repo](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md)
+ALL of my data projects and code is Neatly organized [👉 HERE](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md)
 <br>
 <br>
+
+⏬ **Guides for New Data Analysts** ⏬
 
 |Guides|Project Links|
 |---|---|
