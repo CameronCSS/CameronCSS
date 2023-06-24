@@ -51,8 +51,8 @@ ALL of my data projects and code is Neatly organized [👉 HERE](https://github.
   * Tableau
   * Looker Studio
   * Excel
-  * R (ggplot)
   * Python (plotly, Matplotlib, seaborn) <br>
+  * R (ggplot)
 <br>
 
 * Python 🐍:
