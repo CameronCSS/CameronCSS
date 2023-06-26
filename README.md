@@ -8,7 +8,8 @@
 # Hi there! 👋
 
 I'm Cameron, a Data Analyst from Utah. <br>
-I transitioned to Data in late 2022 and have been mastering my skills in SQL, Excel, Power BI, Tableau, Python, and R.
+I've been in Retail and management for over 10 years and discovered a passion for data in 2022.
+I've been exploring Data and building cool Tools ever since.
 
 <br>
 
@@ -44,6 +45,7 @@ ALL of my data projects and code is Neatly organized [👉 HERE](https://github.
   * Excel
   * SQL (PostgreSQL, MySQL, SQL Server, Google BigQuery)
   * Snowflake <br>
+  * Mongodb (NoSQL)
 <br>
 
 * Visualization 📊:
@@ -58,6 +60,9 @@ ALL of my data projects and code is Neatly organized [👉 HERE](https://github.
 * Python 🐍:
   * pandas
   * numPy
+  * Beautifulsoup
+  * Selenium
+  * nltk (NLP)
   * ydata
   * scrapy 
   * matplotlib
