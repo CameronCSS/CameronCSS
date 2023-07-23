@@ -15,7 +15,7 @@ I've been exploring Data and building cool Tools ever since.
 
 ### 📚 Projects and Guides 📉
 
-ALL of my data projects and code is Neatly organized [👉 HERE](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md)
+FULL Project Portfolio [👉 HERE](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md)
 <br>
 <br>
 
