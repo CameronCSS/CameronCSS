@@ -8,8 +8,8 @@
 # Hi there! 👋
 
 I'm Cameron, a Data Analyst from Utah. <br>
-I've been in Retail and management for over 10 years and discovered a passion for data in 2022.
-I've been exploring Data and building cool Tools ever since.
+
+Exploring data and developing useful tools since 2022.
 
 <br>
 
