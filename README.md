@@ -23,11 +23,11 @@ FULL Project Portfolio [👉 HERE](https://github.com/CameronCSS/PersonalProject
 
 |Guides|Project Links|
 |---|---|
-|🎨 Dashboard Color Guide | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7060457908592939008/)|
-|📊 Dashboard Color App| [Link](https://cloud.squirrel365.io/viewer/EE95D322FE4B4278B870DE8D06B316D2)|
-|🖥️ Free Datasets Resource | [Link](https://www.linkedin.com/feed/update/urn:li:activity:7054106303060709377/)|
-|📈 Graph DOs and DONTs| [Link](https://www.linkedin.com/feed/update/urn:li:activity:7064663920539537409/)|
-|🔤 REGEXP SQL Basics| [Link](https://www.linkedin.com/feed/update/urn:li:activity:7057360246314340352/)|
+|🎨 Dashboard Color Guide | [View Guide](https://www.linkedin.com/feed/update/urn:li:activity:7060457908592939008/)|
+|📊 Dashboard Color App| [Try the App](https://cloud.squirrel365.io/viewer/EE95D322FE4B4278B870DE8D06B316D2)|
+|🖥️ Free Datasets Resource | [View the list](https://www.linkedin.com/feed/update/urn:li:activity:7054106303060709377/)|
+|📈 Graph DOs and DONTs| [View article](https://www.linkedin.com/feed/update/urn:li:activity:7064663920539537409/)|
+|🔤 REGEXP SQL Basics| [View article](https://www.linkedin.com/feed/update/urn:li:activity:7057360246314340352/)|
 
 <br>
 
