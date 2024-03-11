@@ -25,8 +25,8 @@ During this time I also discovered a love for creating apps and useful tools. Wi
 Fast forward to 2024, and here I am, deeply engrossed in Fullstack software development, with a keen focus on JavaScript and making useful Web apps.
 
 ----
-
-### FULL Project Portfolio [👉 HERE](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md) :computer:
+> [!IMPORTANT]
+> ### FULL Project Portfolio [👉 HERE](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md) :computer:
 <br>
 
 ----
