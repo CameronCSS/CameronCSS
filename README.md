@@ -8,10 +8,10 @@
 ### Hello !! 👋
 
 
-#### I'm **Cameron**, a former Data-Analyst turned Full-stack developer.
+#### I'm **Cameron**, a Data Engineer from Utah.
 
 
-<sub><em> Exploring Code and developing useful tools since 2022. </em> </sub>
+<sub><em> Cooking up Data and web tools since 2022. </em> </sub>
 <br>
 <hr>
 
@@ -19,10 +19,10 @@
 
 In 2022 I started studying data tools and analytics. I learned a lot about SQL databases and presenting data to non-technical peers with Power BI and Tableau.
 
-During this time I also discovered a love for creating apps and useful tools. With my knowledge of databases and data structures it slowly led me towards software development. 
+During this time I also discovered a love for creating apps and useful tools. With my knowledge of databases and data structures it slowly led me towards software development and Data engineering. 
 <br>
 <br>
-Fast forward to 2024, and here I am, deeply engrossed in Fullstack software development, with a keen focus on JavaScript and making useful Web apps.
+Fast forward to 2024, and here I am, deeply engrossed in making useful Web apps.
 
 ----
 > [!IMPORTANT]
