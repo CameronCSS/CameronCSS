@@ -8,7 +8,7 @@
 ### Hello !! 👋
 
 
-#### I'm **Cameron**, a Data Engineer from Utah.
+#### I'm **Cameron**, a Data Analyst from Utah.
 
 
 <sub><em> Cooking up Data and web tools since 2022. </em> </sub>
@@ -19,7 +19,7 @@
 
 In 2022 I started studying data tools and analytics. I learned a lot about SQL databases and presenting data to non-technical peers with Power BI and Tableau.
 
-During this time I also discovered a love for creating apps and useful tools. With my knowledge of databases and data structures it slowly led me towards software development and Data engineering. 
+During this time I also discovered a love for creating apps and useful tools. With my knowledge of databases and data structures it slowly led me towards software development with both Python and JavaScript. 
 <br>
 <br>
 Fast forward to 2024, and here I am, deeply engrossed in data and making useful Web apps.
