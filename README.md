@@ -24,9 +24,8 @@ During this time I also discovered a love for creating apps and useful tools. Wi
 <br>
 Fast forward to 2024, and here I am, deeply engrossed in digging through data and making useful Web apps.
 
-```css
-You need an Analyst who can take your Data to the next level. Thats where I come in.
-```
+> [!TIP] 
+> ###You need an Analyst who can take your Data to the next level. Thats where I come in.
 
 ----
 > [!IMPORTANT]
