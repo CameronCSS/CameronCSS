@@ -22,12 +22,12 @@
 
 ## **About**
 
-In 2022 I started studying data tools and analytics. I learned a lot about SQL databases and presenting data to non-technical peers with Power BI and Tableau.
+In 2022 I started studying data tools and analytics. I learned a lot about SQL databases presenting data to non-technical peers, and creating custom code to take my projects to the next level.
 
-During this time I also discovered a love for creating apps and useful tools. With my knowledge of databases and data structures it slowly led me towards deeper data development with both Python and JavaScript.
+During this time I discovered my love for data and creating apps.
 <br>
 <br>
-Fast forward to 2024, and here I am, deeply engrossed in digging through data and making useful Web apps.
+Fast forward to 2024, and here I am, digging through data and making Web apps using 🐍Python and 🧑‍💻JavaScript
 
 ----
 > [!IMPORTANT]
