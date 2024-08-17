@@ -9,7 +9,7 @@
 
 
 ### I'm **Cameron**, 
-a Data Analyst | Junior Developer from Utah.
+Data Analyst | Junior Developer from Utah.
 
 
 <sub><em> Cooking up Data and web tools since 2022. </em> </sub>
