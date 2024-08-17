@@ -22,6 +22,11 @@ Data Analyst | Junior Developer from Utah.
 
 <hr>
 
+> [!IMPORTANT]
+> ### FULL Project Portfolio [👉 HERE](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md) :computer:
+<br>
+
+
 ## **About**
 I began my career transition from retail to data analyst in December 2022.
 
@@ -106,13 +111,6 @@ Outside of my professional work, you’ll often find me exploring art, coding ne
 | CompTIA A+                                                     | Ogden-Weber Technical College   | July 2017 |N/A|
 | CompTIA Security+                                              | Ogden-Weber Technical College   | July 2017 |N/A|
 
-
-
-
-----
-> [!IMPORTANT]
-> ### FULL Project Portfolio [👉 HERE](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md) :computer:
-<br>
 
 ----
 
