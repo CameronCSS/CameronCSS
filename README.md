@@ -58,13 +58,14 @@ Outside of my professional work, you’ll often find me exploring art, coding ne
 - APIs
 - Flask  / Django
 
+
 **Power BI:**
 - Clean Design
 - Data Import
 - Live Data
 - DAX functions
 
-- **Tableau:**
+**Tableau:**
 - Data Cleaning
 - Custom Measures
 - Creative use of unique looking Dashboards
