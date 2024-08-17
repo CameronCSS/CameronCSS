@@ -23,7 +23,8 @@ Data Analyst | Junior Developer from Utah.
 <hr>
 
 ## **About**
-I began my career transition from retail to data analyst in December 2022. 
+I began my career transition from retail to data analyst in December 2022.
+
 Since then, I’ve gained hands-on experience in cleaning and analyzing data with SQL, Excel, and Python. I have also developed an expertise in crafting data visualizations using Power BI, Tableau, and Looker, which has built a strong foundation in data analysis and reporting.
 
 My journey has also led me to discover a passion for coding with Python and JavaScript. I truly enjoy building web apps and writing custom code to elevate projects and solve both simple and complex problems.
