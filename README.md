@@ -82,6 +82,31 @@ Outside of my professional work, you’ll often find me exploring art, coding ne
 - base
 - shiny
 
+## Certifications
+
+| **Certification**                                               | **Issuing Organization**       | **Issued** | **Link**                                                                                      |
+|-----------------------------------------------------------------|--------------------------------|------------|----------------------------------------------------------------------------------------------|
+| Python for Everybody                                            | Coursera                       | Mar 2023   | [Show credential](https://www.coursera.org/account/accomplishments/certificate/GS3TAMF6TUN6) |
+| Data Analysis with R Programming                               | Coursera                       | Feb 2023   | [Show credential](https://www.coursera.org/account/accomplishments/certificate/B3Z57MGRRY2T) |
+| Advanced Microsoft Power BI                                    | LinkedIn                       | Feb 2023   | [Show credential](https://www.linkedin.com/learning/certificates/advanced-microsoft-power-bi) |
+| Advanced SQL for Data Scientists                               | LinkedIn                       | Feb 2023   | [Show credential](https://www.linkedin.com/learning/certificates/advanced-sql-for-data-scientists) |
+| From Excel to SQL                                              | LinkedIn                       | Feb 2023   | [Show credential](https://www.linkedin.com/learning/certificates/from-excel-to-sql) |
+| Google Data Analytics Professional Certificate                  | Coursera                       | Feb 2023   | [Show credential](https://www.coursera.org/account/accomplishments/certificate/L872LWPQDXR6) |
+| Intermediate SQL for Data Scientists                           | LinkedIn                       | Feb 2023   | [Show credential](https://www.linkedin.com/learning/certificates/intermediate-sql-for-data-scientists) |
+| SQL (Advanced)                                                 | HackerRank                     | Feb 2023   | [Show credential](https://www.hackerrank.com/certificates/1056ed24eadc) |
+| SQL (Intermediate)                                             | HackerRank                     | Feb 2023   | [Show credential](https://www.hackerrank.com/certificates/872cd5dddf28) |
+| SQL (Basic)                                                    | HackerRank                     | Feb 2023   | [Show credential](https://www.hackerrank.com/certificates/b001a1007ff7) |
+| Process Data from Dirty to Clean                               | Coursera                       | Jan 2023   | [Show credential](https://www.coursera.org/account/accomplishments/certificate/3AV3RL5DZDGCC) |
+| Analyze Data to Answer Questions                               | Coursera                       | Jan 2023   | [Show credential](https://www.coursera.org/account/accomplishments/certificate/JTC43BBQJEVK) |
+| Ask Questions to Make Data-Driven Decisions                    | Coursera                       | Jan 2023   | [Show credential](https://www.coursera.org/account/accomplishments/certificate/E638DB8NQUJT) |
+| Prepare Data for Exploration                                   | Coursera                       | Jan 2023   | [Show credential](https://www.coursera.org/account/accomplishments/certificate/2FBE9XB6XNW2) |
+| Share Data Through the Art of Visualization                    | Coursera                       | Jan 2023   | [Show credential](https://www.coursera.org/account/accomplishments/certificate/KT2FUQTBVX8C) |
+| Foundations: Data, Data, Everywhere                             | Coursera                       | Dec 2022   | [Show credential](https://www.coursera.org/account/accomplishments/certificate/FG72SYCYK3CZ) |
+| CompTIA A+                                                     | Ogden-Weber Technical College   | July 2017 |N/A|
+| CompTIA Security+                                              | Ogden-Weber Technical College   | July 2017 |N/A|
+
+
+
 
 ----
 > [!IMPORTANT]
