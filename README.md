@@ -24,16 +24,55 @@ Data Analyst | Junior Developer from Utah.
 
 ## Skills
 
-| **Category** | **Tools/Technologies**                                |
-|--------------|-------------------------------------------------------|
-| **Database** | Snowflake, MongoDB, AWS, BigQuery                     |
-| **SQL**      | MySQL, SQL Server, PostgreSQL                         |
-| **Python**   | Pandas, NumPy, Matplotlib, Web Scraping               |
-| **Power BI** | Clean Design, Data Import, Live Data                  |
-| **Excel/Sheets** | XLookup, Pivot Tables, Index Match                  |
-| **R**        | dplyr, ggplot, tidyr, base, shiny                     |
-| **Web**      | JavaScript, HTML, CSS, Flask, APIs                    |
-| **Tableau**  | Data Cleaning, Custom Measures                        |
+**Database:**
+- Snowflake
+- MongoDB
+- AWS
+- BigQuery
+
+**SQL:**
+- MySQL
+- PostgreSQL
+- SQL Server
+
+**Python:**
+- App and software development
+- Web Scraping
+- Pandas
+- NumPy
+- Matplotlib
+
+**Web:**
+- JavaScript
+- HTML
+- CSS
+- APIs
+- Flask  / Django
+
+**Power BI:**
+- Clean Design
+- Data Import
+- Live Data
+- DAX functions
+
+- **Tableau:**
+- Data Cleaning
+- Custom Measures
+- Creative use of unique looking Dashboards
+
+**Excel/Sheets:**
+- XLookup
+- Pivot Tables
+- Index Match
+- DAX formulas
+
+**R:**
+- dplyr
+- ggplot
+- tidyr
+- base
+- shiny
+
 
 
 
