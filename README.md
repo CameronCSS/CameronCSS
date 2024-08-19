@@ -88,6 +88,8 @@ Outside of my professional work, you’ll often find me exploring art, coding ne
 - base
 - shiny
 
+
+<a name="Certifications"></a>
 ## Certifications
 
 | **Certification**                                               | **Issuing Organization**       | **Issued** | **Link**                                                                                      |
