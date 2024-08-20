@@ -17,7 +17,7 @@ Data Analyst | Junior Developer from Utah.
 
 
 > [!TIP] 
-> #### You need an Analyst who can handle everything from insightful dashboards to web reporting solutions. 📈
+> #### You need someone who can handle everything from insightful dashboards to web reporting solutions. 📈
 > #### Thats where I come in.
 
 <hr>
