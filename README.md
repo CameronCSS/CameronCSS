@@ -94,6 +94,7 @@ Outside of my professional work, you’ll often find me exploring art, coding ne
 
 | **Certification**                                               | **Issuing Organization**       | **Issued** | **Link**                                                                                      |
 |-----------------------------------------------------------------|--------------------------------|------------|----------------------------------------------------------------------------------------------|
+| Computer Science - CS50                                         | Harvard University             | Aug 2024   | [Show credential](https://certificates.cs50.io/c942f390-85f3-4d65-9c12-29d2250ccd1a.png?size=letter) |
 | Using Python to Access Web Data                                 | Coursera                       | Aug 2024   | [View Course](https://www.coursera.org/learn/python-network-data) |
 | Using Databases with Python                                     | Coursera                       | Aug 2024   | [View Course](https://www.coursera.org/learn/python-databases) |
 | Python Data Structures                                          | Coursera                       | Aug 2024   | [View Course](https://www.coursera.org/learn/python-data) |
