@@ -95,10 +95,11 @@ Outside of my professional work, you’ll often find me exploring art, coding ne
 | **Certification**                                               | **Issuing Organization**       | **Issued** | **Link**                                                                                      |
 |-----------------------------------------------------------------|--------------------------------|------------|----------------------------------------------------------------------------------------------|
 | Computer Science - CS50                                         | Harvard University             | Aug 2024   | [Show credential](https://certificates.cs50.io/c942f390-85f3-4d65-9c12-29d2250ccd1a.png?size=letter) |
-| Using Python to Access Web Data                                 | Coursera                       | Aug 2024   | [View Course](https://www.coursera.org/learn/python-network-data) |
-| Using Databases with Python                                     | Coursera                       | Aug 2024   | [View Course](https://www.coursera.org/learn/python-databases) |
-| Python Data Structures                                          | Coursera                       | Aug 2024   | [View Course](https://www.coursera.org/learn/python-data) |
-| Python for Everybody                                            | Coursera                       | Mar 2023   | [Show credential](https://www.coursera.org/account/accomplishments/certificate/GS3TAMF6TUN6) |
+| Retrieving, Processing, and Visualizing Data with Python        | University of Michigan         | Aug 2024   | [View Course](https://www.coursera.org/learn/python-data-visualization) |
+| Using Python to Access Web Data                                 | University of Michigan         | Aug 2024   | [View Course](https://www.coursera.org/learn/python-network-data) |
+| Using Databases with Python                                     | University of Michigan         | Aug 2024   | [View Course](https://www.coursera.org/learn/python-databases) |
+| Python Data Structures                                          | University of Michigan         | Aug 2024   | [View Course](https://www.coursera.org/learn/python-data) |
+| Python for Everybody                                            | University of Michigan         | Mar 2023   | [Show credential](https://www.coursera.org/account/accomplishments/certificate/GS3TAMF6TUN6) |
 | Data Analysis with R Programming                               | Coursera                       | Feb 2023   | [Show credential](https://www.coursera.org/account/accomplishments/certificate/B3Z57MGRRY2T) |
 | Advanced Microsoft Power BI                                    | LinkedIn                       | Feb 2023   | [Show credential](https://www.linkedin.com/learning/certificates/advanced-microsoft-power-bi) |
 | Advanced SQL for Data Scientists                               | LinkedIn                       | Feb 2023   | [Show credential](https://www.linkedin.com/learning/certificates/advanced-sql-for-data-scientists) |
