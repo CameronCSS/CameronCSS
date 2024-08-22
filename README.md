@@ -36,58 +36,6 @@ My journey has also led me to discover a passion for coding with Python and Java
 
 Outside of my professional work, you’ll often find me exploring art, coding new apps, and spending quality time with my two kids.
 
-## Skills
-
-**Database:**
-- Snowflake
-- MongoDB
-- AWS
-- BigQuery
-
-**SQL:**
-- MySQL
-- PostgreSQL
-- SQL Server
-
-**Python:**
-- App and software development
-- Web Scraping
-- Pandas
-- NumPy
-- Matplotlib
-
-**Web:**
-- JavaScript
-- HTML
-- CSS
-- APIs
-- Flask  / Django
-
-
-**Power BI:**
-- Clean Design
-- Data Import
-- Live Data
-- DAX functions
-
-**Tableau:**
-- Data Cleaning
-- Custom Measures
-- Creative use of unique looking Dashboards
-
-**Excel/Sheets:**
-- XLookup
-- Pivot Tables
-- Index Match
-- DAX formulas
-
-**R:**
-- dplyr
-- ggplot
-- tidyr
-- base
-- shiny
-
 
 <a name="Certifications"></a>
 ## Certifications
