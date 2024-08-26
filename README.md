@@ -37,6 +37,9 @@ My journey has also led me to discover a passion for coding with Python and Java
 Outside of my professional work, you’ll often find me exploring art, coding new apps, and spending quality time with my two kids.
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&hide=css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a name="Certifications"></a>
 ## Certifications
 
