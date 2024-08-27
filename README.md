@@ -6,22 +6,20 @@
 
 ## Hello !! 👋
 
-
-### I'm **Cameron**, 
-Data Analyst | Developer from Utah.
-
+### I'm **Cameron**, Data Analyst | Developer from Utah.
 
 <sub><em> Cooking up Data and web tools since 2022. </em> </sub>
 <br>
 
 
-> [!TIP] 
-> #### You need someone who can handle everything from insightful dashboards to web reporting solutions. 📈
-> #### Thats where I come in.
-
+> [!IMPORTANT] 
+> ## Recent Featured Project
+> ### Data Extraction using Azure Map API
+> ### Using the API to extract all Schools in a certain Area for our client
+> [View Project](https://github.com/CameronCSS/Azure_Map_API/blob/master/README.md)
 <hr>
 
-> [!IMPORTANT]
+> [!TIP]
 > ### FULL Project Portfolio [👉 HERE](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md) :computer:
 <br>
 
