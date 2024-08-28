@@ -1,7 +1,13 @@
 <a name="readme-top"></a>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cd342c2c-886d-43c9-9f1e-c05c6c1a3bb7" alt="profilegif" height="275px">
+</p>
+
+
+
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=CameronCSS&style=flat" alt="">
+  <img src="https://komarev.com/ghpvc/?username=CameronCSS&style=flat" alt="viewcount">
 </p>
 
 ## Hello !! 👋
