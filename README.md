@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/415ef002-098a-4d2f-a9b4-5edae78991ae" alt="profilegif" height="200px">
+  <img src="https://github.com/user-attachments/assets/415ef002-098a-4d2f-a9b4-5edae78991ae" alt="profilegif">
 </p>
 
 ## 👋 Hi there! I'm **Cameron**, a passionate Data Scientist from Utah.
