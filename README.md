@@ -7,7 +7,7 @@
   <img src="https://github.com/user-attachments/assets/71c4f352-d4f8-4c97-920d-5202330bf764" alt="profilegif">
 </p>
 
-## 👋 Hi there! I'm **Cameron**, a passionate Data Scientist from Utah.
+## 👋 Hi there! I'm **Cameron**, a passionate Data Analyst from Utah.
 
 <sub><em>🔥 Cooking up Data and web tools since 2022.</em> </sub>
 <br>
