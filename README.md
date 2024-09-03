@@ -35,6 +35,6 @@ Outside of my professional work, you’ll often find me exploring art, coding si
 
 ### 💬 Connect with Me
 
-<span>[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/cameron-css/) [![Email](https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000)](mailto:CameronSeamons@gmail.com) [![Email](https://img.icons8.com/?size=50&id=103413&format=png&color=000000)](https://CamDoesData.com)</span>
+<span>[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/cameron-css/) [![Email](https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000)](mailto:CameronSeamons@gmail.com) [![Portfolio](https://img.icons8.com/?size=50&id=103413&format=png&color=000000)](https://CamDoesData.com) [![Resume](https://img.icons8.com/?size=50&id=CPookyWndobk&format=png&color=000000)](https://drive.google.com/file/d/1YaM4hDtt2-79ShBVTN06Y3BU79LvFw6J/view?usp=sharing)</span>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
