@@ -3,14 +3,17 @@
   <img src="https://komarev.com/ghpvc/?username=CameronCSS&style=flat" alt="viewcount">
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/71c4f352-d4f8-4c97-920d-5202330bf764" alt="profilegif">
-</p>
 
 ## 👋 Hi there! I'm **Cameron**, a passionate Data Analyst from Utah.
 
 <sub><em>🔥 Cooking up Data and web tools since 2022.</em> </sub>
 <br>
+
+## **About**
+My journey has led me to discover a passion for exploring data with Python and writing code late into the night. I love exploring data, building web apps, and solving both simple and complex problems.
+
+Outside of my professional work, you’ll often find me exploring art, coding silly apps, and spending quality time with my two kids.
+
 
 
 > [!IMPORTANT] 
@@ -25,22 +28,13 @@
 <br>
 
 
-## **About**
-My journey has led me to discover a passion for exploring data with Python and writing code late into the night. I love exploring data, building web apps, and solving both simple and complex problems.
-
-Outside of my professional work, you’ll often find me exploring art, coding silly apps, and spending quality time with my two kids.
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&hide=css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ----
 
-### 💬 Connect with Me <br>
+### 💬 Connect with Me
 
-* [Linkedin](https://www.linkedin.com/in/cameron-css/) <br>
-* [Portfolio](https://camdoesdata.com/) <br>
- 
-
+<span>[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/cameron-css/) [![Email](https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000)](mailto:CameronSeamons@gmail.com) [![Email](https://img.icons8.com/?size=50&id=103413&format=png&color=000000)](https://CamDoesData.com)</span>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
