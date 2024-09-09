@@ -4,16 +4,21 @@
 </p>
 
 
-## 👋 Hi there! I'm **Cameron**, a passionate Data Analyst from Utah.
+## 👋 Hi, I'm Cameron, a dedicated Data Analyst from Utah with a passion for transforming complex data into business solutions.
 
 <sub><em>🔥 Cooking up Data and web tools since 2022.</em> </sub>
 <br>
 
 ## **About**
-My journey has led me to discover a passion for exploring data with Python and writing code late into the night. I love exploring data, building web apps, and solving both simple and complex problems.
+As a Freelance Data Analyst, I specialize in building and managing advanced database systems, automating data preprocessing, and ensuring consistency across diverse platforms. My work has empowered clients with clean, actionable data, enhancing their decision-making processes. I’m also expanding my expertise into data science, where I’m building and deploying machine learning models to predict future trends and outcomes, moving beyond traditional data analysis.
 
-Outside of my professional work, you’ll often find me exploring art, coding silly apps, and spending quality time with my two kids.
+I am certified by Harvard University (CS50), Microsoft, the University of Michigan, and LinkedIn Learning, with advanced knowledge in SQL, Power BI, and data analytics. 
+My education has provided a solid foundation in computer science, databases, and sophisticated data processing, and I’m continually expanding my skills in machine learning and predictive modeling.
 
+Beyond my professional work, I enjoy coding creative projects, exploring art, and spending quality time with my family. Whether visualizing HR performance metrics, analyzing review sentiment with NLP, or conducting retail price comparisons, I am dedicated to pushing the boundaries of data analysis to drive meaningful outcomes.
+
+Let’s connect to discuss how data-driven strategies can transform your business!
+----
 
 
 > [!IMPORTANT] 
