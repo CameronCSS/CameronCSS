@@ -40,6 +40,6 @@ Let’s connect to discuss how data-driven strategies can transform your busines
 
 ### 💬 Connect with Me
 
-<span>[![LinkedIn](https://img.icons8.com/?size=50&id=13930&format=png&color=000000)](https://www.linkedin.com/in/cameron-css/) [![Portfolio](https://img.icons8.com/?size=50&id=103413&format=png&color=000000)](https://CamDoesData.com) [![Kaggle](https://img.icons8.com/?size=50&id=s1rM4KTx2Huf&format=png&color=000000)](https://www.kaggle.com/cameronseamons) [![Email](https://img.icons8.com/?size=50&id=qyRpAggnV0zH&format=png&color=000000)](mailto:CameronSeamons@gmail.com)  [![Resume](https://img.icons8.com/?size=50&id=CPookyWndobk&format=png&color=000000)](https://drive.google.com/file/d/1YaM4hDtt2-79ShBVTN06Y3BU79LvFw6J/view?usp=sharing)</span>
+<span>[![LinkedIn](https://github.com/user-attachments/assets/d1d2f882-0bda-46cb-9b7c-9f01eff81da9)](https://www.linkedin.com/in/cameron-css/) [![Portfolio](https://github.com/user-attachments/assets/eb2e9672-e765-442f-89d7-149c7e7db0a8)](https://CamDoesData.com) [![Kaggle](https://github.com/user-attachments/assets/ef5fbcf3-067a-4bb1-b5cd-fd4e369df980)](https://www.kaggle.com/cameronseamons) [![Email](https://github.com/user-attachments/assets/12af3cba-137e-498f-abe1-c66108e5e57a)](mailto:CameronSeamons@gmail.com)  [![Resume](https://github.com/user-attachments/assets/1ee4d4d1-22cd-42ff-b2e4-be7185269306)](https://drive.google.com/file/d/1YaM4hDtt2-79ShBVTN06Y3BU79LvFw6J/view?usp=sharing)</span>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
