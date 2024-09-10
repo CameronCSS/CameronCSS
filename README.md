@@ -23,9 +23,9 @@ Let’s connect to discuss how data-driven strategies can transform your busines
 
 > [!IMPORTANT] 
 > ## Recent Featured Project
-> ### Data Extraction using Azure Map API
-> ### Using the API to extract all Schools in a certain Area for our client
-> [View Project](https://github.com/CameronCSS/Azure_Map_API/blob/master/README.md)
+> ### Retail Profit Predictions
+> #### I performed data cleaning, and compared future profit predictions using both Prophet and Linear Regression.
+> [View Project](https://github.com/CameronCSS/Retail_Profit_Predictions/tree/master/README.md)
 <hr>
 
 > [!TIP]
