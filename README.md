@@ -6,7 +6,7 @@
 
 ## 👋 Hi, I'm Cameron, a dedicated Data Analyst from Utah.
 
-<sub><em>🔥 Cooking up Data and web tools since 2022.</em> </sub>
+<sub><em>Building Business Solutions and web tools since 2022.</em> </sub>
 <br>
 
 ## **About**
