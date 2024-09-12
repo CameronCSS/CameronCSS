@@ -22,7 +22,7 @@ Let’s connect to discuss how data-driven strategies can transform your busines
 
 
 > [!IMPORTANT] 
-> ## Recent Featured Project
+> ## Recent Project
 > ### Retail Profit Predictions
 > #### I performed data cleaning, and compared future profit predictions using both Prophet and Linear Regression.
 > [View Project](https://github.com/CameronCSS/Retail_Profit_Predictions/tree/master/README.md)
