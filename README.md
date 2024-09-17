@@ -10,7 +10,7 @@
 <br>
 
 ## **About**
-As a Freelance Data Analyst, I specialize in building and managing advanced database systems, automating data processing, and ensuring consistency across various client environments. 
+As a Freelance Data Analyst, I'm experienced in building and managing advanced database systems, automating data processing, and ensuring consistency across various client environments. 
 My work has delivered clients with clean, actionable data, enhancing their decision-making processes.
 
 I’m also expanding my expertise into data science, where I’m building and deploying machine learning models to predict future trends and outcomes, moving beyond traditional data analysis.
