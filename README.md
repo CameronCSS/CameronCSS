@@ -19,7 +19,6 @@ I am certified by Harvard University, Google, Microsoft, the University of Michi
 
 Outside of my professional work, I enjoy coding projects, creating art, and spending quality time with my kids. 
 
-Let’s connect to discuss how data-driven strategies can transform your business!
 
 ----
 
