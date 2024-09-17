@@ -10,12 +10,14 @@
 <br>
 
 ## **About**
-As a Freelance Data Analyst, I specialize in building and managing advanced database systems, automating data preprocessing, and ensuring consistency across diverse platforms. My work has empowered clients with clean, actionable data, enhancing their decision-making processes. I’m also expanding my expertise into data science, where I’m building and deploying machine learning models to predict future trends and outcomes, moving beyond traditional data analysis.
+As a Freelance Data Analyst, I specialize in building and managing advanced database systems, automating data processing, and ensuring consistency across various client environments. 
+My work has delivered clients with clean, actionable data, enhancing their decision-making processes.
 
-I am certified by Harvard University (CS50), Microsoft, the University of Michigan, and LinkedIn Learning, with advanced knowledge in SQL, Power BI, and data analytics. 
-My education has provided a solid foundation in computer science, databases, and sophisticated data processing, and I’m continually expanding my skills in machine learning and predictive modeling.
+I’m also expanding my expertise into data science, where I’m building and deploying machine learning models to predict future trends and outcomes, moving beyond traditional data analysis.
 
-Beyond my professional work, I enjoy coding creative projects, exploring art, and spending quality time with my family. Whether visualizing HR performance metrics, analyzing review sentiment with NLP, or conducting retail price comparisons, I am dedicated to pushing the boundaries of data analysis to drive meaningful outcomes.
+I am certified by Harvard University, Google, Microsoft, the University of Michigan, and LinkedIn Learning, with advanced knowledge in SQL, Power BI, and data analytics.
+
+Outside of my professional work, I enjoy coding projects, creating art, and spending quality time with my kids. 
 
 Let’s connect to discuss how data-driven strategies can transform your business!
 ----
