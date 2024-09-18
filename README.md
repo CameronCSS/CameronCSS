@@ -26,7 +26,7 @@ Outside of my professional work, I enjoy coding projects, creating art, and spen
 > [!IMPORTANT] 
 > ## Recent Project
 > ### SLC Police Cases 2011-2014
-> #### Analyzed police case data to identify and understand crime trends over time and across different locations in Salt Lake City
+> #### Analyzed police case data to identify crime trends, extract insights, and provide recommendations for managing high-crime areas and improving case processing times.
 > [View Project](https://github.com/CameronCSS/SLC-Police-Cases-2011-2014/blob/main/README.md)
 <hr>
 
