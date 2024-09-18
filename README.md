@@ -25,9 +25,9 @@ Outside of my professional work, I enjoy coding projects, creating art, and spen
 
 > [!IMPORTANT] 
 > ## Recent Project
-> ### Retail Profit Predictions
-> #### I performed data cleaning, and analyzed future profit predictions using both Prophet and Linear Regression.
-> [View Project](https://github.com/CameronCSS/Retail_Profit_Predictions/tree/master/README.md)
+> ### SLC Police Cases 2011-2014
+> #### Analyzed police case data to identify and understand crime trends over time and across different locations in Salt Lake City
+> [View Project](https://github.com/CameronCSS/SLC-Police-Cases-2011-2014/blob/main/README.md)
 <hr>
 
 > [!TIP]
