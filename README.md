@@ -4,21 +4,21 @@
 </p>
 
 
-## 👋 Hi, I'm Cameron, a dedicated Data Analyst from Utah.
+## 👋 Hi there! I'm Cameron
+A Data Analyst transitioning into Data Engineering.
 
-<sub><em>Building Business Solutions and web tools since 2022.</em> </sub>
-<br>
+I specialize in 
+- Ensuring clean, high-quality data
+- Designing and implementing robust data infrastructures
+- Optimizing data pipelines
+- Enhancing Accessibility across diverse client environments
 
-## **About**
-As a Freelance Data Analyst, I'm experienced in building and managing advanced database systems, automating data processing, and ensuring consistency across various client environments. 
-My work has delivered clients with clean, actionable data, enhancing their decision-making processes.
+I'm expanding my expertise in big data technologies and cloud computing platforms, focusing on distributed systems and stream processing to handle large-scale data operations effectively.
 
-I’m also expanding my expertise into data science, where I’m building and deploying machine learning models to predict future trends and outcomes, moving beyond traditional data analysis.
+My technical expertise includes certifications from Harvard University, Google, Microsoft, the University of Michigan, and LinkedIn Learning, with advanced knowledge in Python, SQL, data modeling, and various engineering tools and frameworks.
 
-I am certified by Harvard University, Google, Microsoft, the University of Michigan, and LinkedIn Learning, with advanced knowledge in SQL, Power BI, and data analytics.
 
-Outside of my professional work, I enjoy coding projects, creating art, and spending quality time with my kids. 
-
+Outside of my professional work, I enjoy coding projects, creating art, and spending quality time with my kids.
 
 ----
 
