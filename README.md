@@ -6,9 +6,9 @@
 
 ## 👋 Hi there! I'm Cameron
 A Data Analyst transitioning into Data Engineering who specializes in squeezing every ounce of insight from data. 
-I have the most experience in Python and Postgres but can work on projects across the data spectrum.
+I have the most experience in Python and Postgres have worked on projects all across the data spectrum.
 
-My skills include:
+Skills and Knowledge:
 - Python
 - SQL
 - Power BI
@@ -16,8 +16,8 @@ My skills include:
 - Exploratory Data Analysis
 - Web Scraping
 - Ensuring clean, high-quality data
-- Designing and implementing robust data infrastructures
 - Optimizing data pipelines
+- Designing and implementing robust data infrastructures
 - Enhancing usability across diverse client environments
 
 My technical expertise includes certifications from Harvard University, Google, Microsoft, the University of Michigan, and LinkedIn Learning, with advanced knowledge in Python, SQL, data modeling, and various data engineering tools and frameworks.
