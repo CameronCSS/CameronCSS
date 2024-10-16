@@ -11,8 +11,9 @@ I have the most experience in Python and Postgres have worked on projects all ac
 Skills and Knowledge:
 - Python
 - SQL
-- Power BI
 - Excel
+- Tableau
+- Power BI
 - Exploratory Data Analysis
 - Web Scraping
 - Ensuring clean, high-quality data
