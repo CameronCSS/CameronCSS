@@ -6,48 +6,45 @@
 
 ## 👋 Hi there! I'm Cameron
 
-Things about me:
-
-- I love Data!! You know what I really love?  WHY!!  Why were sales down this month. Why did we gain a bunch of customers yesterday?Why doesn't everyone use YYYY-MM-DD??
+I love Data!! You know what I really love?  WHY!!  Why were sales down this month. Why did we gain a bunch of customers yesterday?Why doesn't everyone use YYYY-MM-DD??
 <br><sup>*(I hope you can feel my personality through the screen right now!)*</sup>
 
-- I am just so passionate about data, and tech, and Coding cool little tools that make everyday tasks easier.
-- I consider myself a SQL guru, but I know there is ALWAYS more to learn. (Watch my [YouTube SQL series!](https://www.youtube.com/watch?v=-FmTwp4zRqg&list=PLsuBbPvs8LZU_Bm22kKaaCCCd7jUAwn9H))
-
-> [!IMPORTANT] 
+> [!NOTE] 
 > I am currently diving deep into data engineering and python coding. BOTH!??  HOW!??  Well... I make a Snake game, and then I build a database around it to track high scores and see what times of day have the highest scores!  why not!?
 
 ### Skills and Knowledge:
 - Python
-- SQL I consider myself a SQL guru, but I know there is ALWAYS more to learn. (Watch my YouTube SQL series!)
+- SQL
 - Tableau
 - Excel
 - Exploratory Data Analysis
 - Web Scraping
 - Ensuring clean, high-quality data
 - Optimizing data pipelines (My first Snowflake bill vs every month after can be proof of this!)
-- Enhancing usability across diverse client environments (It works on my machine. ok... well lets make it work on ALL machines!)
-===
-
-["Professional" sentence to talk about the Hard / technical skills]
-
-My technical expertise includes certifications from Harvard, Google, Microsoft, the University of Michigan, and LinkedIn Learning, with advanced knowledge in Python, SQL, data modeling, and various data engineering tools and frameworks.
-
-Outside of my professional work, I enjoy coding projects, creating art, and spending quality time with my kids.
-
-### 👨‍💻 Data Portfolio: [Camdoesdata.com](https://camdoesdata.com/)
 
 
 ----
 
 
 > [!IMPORTANT] 
-> ## Recent Project
+> ## Latest Data Project
 > ### Customer Purchase Behavior Analysis
 > #### An in-depth behavior analysis to identify key insights on customer behavior, product performance, and sales trends.
 > > #### The recommendations derived from this analysis will help optimize marketing efforts, enhance customer engagement, and drive sales growth in the company's electronics category.
 > [View Project](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)
 <hr>
+
+> [!IMPORTANT] 
+> ## Latest Data Project
+> ### Customer Purchase Behavior Analysis
+> #### An in-depth behavior analysis to identify key insights on customer behavior, product performance, and sales trends.
+> > #### The recommendations derived from this analysis will help optimize marketing efforts, enhance customer engagement, and drive sales growth in the company's electronics category.
+> [View Project](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)
+<hr>
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 
 > [!TIP]
 > ### FULL Project Portfolio [👉 HERE](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md) :computer:
