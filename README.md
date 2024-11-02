@@ -17,7 +17,8 @@ Why doesn't everyone use  YYYY-MM-DD??
 <sup>*(I hope you can feel my personality through the screen right now!)*</sup>
 
 > [!NOTE] 
-> I am currently diving deep into data engineering and python coding. BOTH!??  HOW!??  Well... I make a Snake game, and then I build a database around it to track high scores and see what times of day have the highest scores!  why not!?
+> I am currently diving deep into data engineering and python coding. 
+> > BOTH!??  HOW!??  Well... I make a Snake game, and then I build a database around it to track high scores and see what times of day have the highest scores!  why not!?
 
 ### Skills:
 - Python
