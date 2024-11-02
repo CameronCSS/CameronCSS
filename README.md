@@ -9,8 +9,7 @@
 Things about me:
 
 - I love Data!! You know what I really love?  WHY!!  Why were sales down this month. Why did we gain a bunch of customers yesterday?Why doesn't everyone use YYYY-MM-DD??
-
-<sub>*(I hope you can feel my personality through the screen right now!)*</sub>
+<br><sup>*(I hope you can feel my personality through the screen right now!)*</sup>
 
 - I am just so passionate about data, and tech, and Coding cool little tools that make everyday tasks easier.
 - I consider myself a SQL guru, but I know there is ALWAYS more to learn. (Watch my [YouTube SQL series!](https://www.youtube.com/watch?v=-FmTwp4zRqg&list=PLsuBbPvs8LZU_Bm22kKaaCCCd7jUAwn9H))
