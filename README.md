@@ -38,7 +38,7 @@ Why doesn't everyone use  YYYY-MM-DD??
 > [!IMPORTANT] 
 > ## Latest Data Project
 > ### Customer Purchase Behavior Analysis
-> #### An in-depth behavior analysis to identify key insights on customer behavior, product performance, and sales trends.
+> #### An in-depth behavior analysis using Python to identify key insights on customer behavior, product performance, and sales trends.
 > > [View Project](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)
 <hr>
 
