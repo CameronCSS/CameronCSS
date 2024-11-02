@@ -5,26 +5,39 @@
 
 
 ## 👋 Hi there! I'm Cameron
-A Data Analyst transitioning into Data Engineering who specializes in squeezing every ounce of insight from data. 
-I have the most experience in Python and Postgres but I have worked on projects all across the data spectrum.
 
-Skills and Knowledge:
+Things about me:
+
+- I love Data!! You know what I really love?  WHY!!  Why were sales down this month. Why did we gain a bunch of customers yesterday?Why doesn't everyone use YYYY-MM-DD??
+
+<sub>*(I hope you can feel my personality through the screen right now!)*</sub>
+
+- I am just so passionate about data, and tech, and Coding cool little tools that make everyday tasks easier.
+- I consider myself a SQL guru, but I know there is ALWAYS more to learn. (Watch my [YouTube SQL series!](https://www.youtube.com/watch?v=-FmTwp4zRqg&list=PLsuBbPvs8LZU_Bm22kKaaCCCd7jUAwn9H))
+
+> [!IMPORTANT] 
+> I am currently diving deep into data engineering and python coding. BOTH!??  HOW!??  Well... I make a Snake game, and then I build a database around it to track high scores and see what times of day have the highest scores!  why not!?
+
+### Skills and Knowledge:
 - Python
-- SQL
-- Excel
+- SQL I consider myself a SQL guru, but I know there is ALWAYS more to learn. (Watch my YouTube SQL series!)
 - Tableau
-- Power BI
+- Excel
 - Exploratory Data Analysis
 - Web Scraping
 - Ensuring clean, high-quality data
-- Optimizing data pipelines
-- Designing and implementing robust data infrastructures
-- Enhancing usability across diverse client environments
+- Optimizing data pipelines (My first Snowflake bill vs every month after can be proof of this!)
+- Enhancing usability across diverse client environments (It works on my machine. ok... well lets make it work on ALL machines!)
+===
 
-My technical expertise includes certifications from Harvard University, Google, Microsoft, the University of Michigan, and LinkedIn Learning, with advanced knowledge in Python, SQL, data modeling, and various data engineering tools and frameworks.
+["Professional" sentence to talk about the Hard / technical skills]
 
+My technical expertise includes certifications from Harvard, Google, Microsoft, the University of Michigan, and LinkedIn Learning, with advanced knowledge in Python, SQL, data modeling, and various data engineering tools and frameworks.
 
 Outside of my professional work, I enjoy coding projects, creating art, and spending quality time with my kids.
+
+### 👨‍💻 Data Portfolio: [Camdoesdata.com](https://camdoesdata.com/)
+
 
 ----
 
