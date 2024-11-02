@@ -6,22 +6,30 @@
 
 ## 👋 Hi there! I'm Cameron
 
-I love Data!! You know what I really love?  WHY!!  Why were sales down this month. Why did we gain a bunch of customers yesterday?Why doesn't everyone use YYYY-MM-DD??
-<br><sup>*(I hope you can feel my personality through the screen right now!)*</sup>
+I love Data!! <br>
+And I REALLY love to ask ```WHY!?``` 
+
+```python 
+Why were sales down this month. Why did we gain a bunch of customers yesterday? Why doesn't everyone use  YYYY-MM-DD??
+```
+<sup>*(I hope you can feel my personality through the screen right now!)*</sup>
 
 > [!NOTE] 
 > I am currently diving deep into data engineering and python coding. BOTH!??  HOW!??  Well... I make a Snake game, and then I build a database around it to track high scores and see what times of day have the highest scores!  why not!?
 
-### Skills and Knowledge:
+### Skills:
 - Python
 - SQL
 - Tableau
 - Excel
 - Exploratory Data Analysis
+- ETL & ELT
 - Web Scraping
 - Ensuring clean, high-quality data
 - Optimizing data pipelines (My first Snowflake bill vs every month after can be proof of this!)
 
+> [!TIP]
+> ### FULL Project Portfolio [👉 HERE](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md) :computer:
 
 ----
 
@@ -30,17 +38,18 @@ I love Data!! You know what I really love?  WHY!!  Why were sales down this mont
 > ## Latest Data Project
 > ### Customer Purchase Behavior Analysis
 > #### An in-depth behavior analysis to identify key insights on customer behavior, product performance, and sales trends.
-> > #### The recommendations derived from this analysis will help optimize marketing efforts, enhance customer engagement, and drive sales growth in the company's electronics category.
-> [View Project](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)
+> > [View Project](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)
 <hr>
 
 > [!IMPORTANT] 
-> ## Latest Data Project
-> ### Customer Purchase Behavior Analysis
-> #### An in-depth behavior analysis to identify key insights on customer behavior, product performance, and sales trends.
-> > #### The recommendations derived from this analysis will help optimize marketing efforts, enhance customer engagement, and drive sales growth in the company's electronics category.
-> [View Project](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)
+> ## Latest Python Project
+> ### Snake Game
+> #### The classic snake game made in python!
+> > [View Code](https://github.com/CameronCSS/100_Days_of_Python/blob/main/snake/README.md)
 <hr>
+
+
+## Latest Youtube videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Twitter Interview Question - Bucket Counts - Data Analyst SQL practice problem](https://ytcards.demolab.com/?id=-FmTwp4zRqg&title=Twitter+Interview+Question+-+Bucket+Counts+-+Data+Analyst+SQL+practice+problem&lang=en&timestamp=1730473200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Twitter Interview Question - Bucket Counts - Data Analyst SQL practice problem")](https://www.youtube.com/watch?v=-FmTwp4zRqg)
@@ -51,10 +60,6 @@ I love Data!! You know what I really love?  WHY!!  Why were sales down this mont
 [![SQL interview questions: CTEs JOINS and multiple Groupings SQL practice for Data Analysts](https://ytcards.demolab.com/?id=ASctvHV3mXM&title=SQL+interview+questions%3A+CTEs+JOINS+and+multiple+Groupings+SQL+practice+for+Data+Analysts&lang=en&timestamp=1728655214&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SQL interview questions: CTEs JOINS and multiple Groupings SQL practice for Data Analysts")](https://www.youtube.com/watch?v=ASctvHV3mXM)
 <!-- END YOUTUBE-CARDS -->
 
-
-> [!TIP]
-> ### FULL Project Portfolio [👉 HERE](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md) :computer:
-<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&hide=css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
