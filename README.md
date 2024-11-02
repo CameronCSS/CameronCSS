@@ -31,8 +31,6 @@ Why doesn't everyone use  YYYY-MM-DD??
 - Ensuring clean, high-quality data
 - Optimizing data pipelines (My first Snowflake bill vs every month after can be proof of this!)
 
-> [!TIP]
-> ### FULL Project Portfolio [👉 HERE](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md) :computer:
 
 ----
 
@@ -49,6 +47,12 @@ Why doesn't everyone use  YYYY-MM-DD??
 > ### Snake Game
 > #### The classic snake game made in python!
 > > [View Code](https://github.com/CameronCSS/100_Days_of_Python/blob/main/snake/README.md)
+
+> [!TIP]
+> ### View ALL My Projects [👉 HERE](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md) :computer:
+
+
+
 <hr>
 
 
