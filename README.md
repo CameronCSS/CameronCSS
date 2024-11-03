@@ -69,7 +69,7 @@ Why doesn't everyone use  YYYY-MM-DD??
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&hide=css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&hide=css,c,html,powershell&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ----
