@@ -17,8 +17,7 @@ Why doesn't everyone use  YYYY-MM-DD??
 <sup>*(I hope you can feel my personality through the screen right now!)*</sup>
 
 > [!NOTE] 
-> I am currently diving deep into data engineering and python coding. 
-> > BOTH!??  HOW!??  Well... I make a Snake game, and then I build a database around it to track high scores and see what times of day have the highest scores!  why not!?
+> Currently on a DEEP DIVE into data engineering, DSA, and more advanced python coding. 
 
 ### Skills:
 - Python
@@ -34,29 +33,32 @@ Why doesn't everyone use  YYYY-MM-DD??
 
 ----
 
-
-> [!IMPORTANT] 
-> ## Latest Data Project
+> [!IMPORTANT]
+> ## 🌟 **LATEST DATA PROJECT** 
 > ### Customer Purchase Behavior Analysis
-> #### An in-depth behavior analysis using Python to identify key insights on customer behavior, product performance, and sales trends.
-> > [View Project](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)
-<hr>
+> An in-depth behavior analysis using Python to identify key insights on customer behavior, product performance, and sales trends.
+> 
+> -> [View Project](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)
 
-> [!IMPORTANT] 
-> ## Latest Python Project
+---
+
+> [!IMPORTANT]
+> ## 🎮 **LATEST PROGRAMMING PROJECT**
 > ### Snake Game
-> #### The classic snake game made in python!
-> > [View Code](https://github.com/CameronCSS/100_Days_of_Python/blob/main/snake/README.md)
+> The classic snake game made in Python!
+> 
+> -> [View Code](https://github.com/CameronCSS/100_Days_of_Python/blob/main/snake/README.md)
+
+<hr>
 
 > [!TIP]
-> ### View ALL My Projects [👉 HERE](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md) :computer:
-
+> ### :computer: View ALL My Projects here [👉 GITHUB PORTFOLIO](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md)
 
 
 <hr>
 
 
-## Latest Youtube videos
+## 📺 **Latest YouTube Videos**
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Twitter Interview Question - Bucket Counts - Data Analyst SQL practice problem](https://ytcards.demolab.com/?id=-FmTwp4zRqg&title=Twitter+Interview+Question+-+Bucket+Counts+-+Data+Analyst+SQL+practice+problem&lang=en&timestamp=1730473200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Twitter Interview Question - Bucket Counts - Data Analyst SQL practice problem")](https://www.youtube.com/watch?v=-FmTwp4zRqg)
