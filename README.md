@@ -32,28 +32,19 @@ Why doesn't everyone use  YYYY-MM-DD??
 - [Optimizing data pipelines](https://github.com/CameronCSS/Programming-Languages/blob/main/Data%20Notebooks/Price%20Comparison.ipynb) (My Snowflake bill is proof of this! 😂)
 
 
-----
-
-> [!IMPORTANT]
-> ## 🌟 **LATEST DATA PROJECT** 
-> ### Customer Purchase Behavior Analysis
-> An in-depth behavior analysis using Python to identify key insights on customer behavior, product performance, and sales trends.
-> 
-> -> [View Project](https://github.com/CameronCSS/Customer-Purchase-Behavior-Analysis/blob/main/README.md)
-
----
-
-> [!IMPORTANT]
-> ## 🎮 **LATEST PROGRAMMING PROJECT**
-> ### Snake Game
-> The classic snake game made in Python!
-> 
-> -> [View Code](https://github.com/CameronCSS/100_Days_of_Python/blob/main/snake/README.md)
-
 <hr>
 
 > [!TIP]
 > ### :computer: View ALL My Projects here [👉 GITHUB PORTFOLIO](https://cameroncss.github.io/PersonalProjects/)
+
+----
+
+> [!IMPORTANT]
+> ## **LATEST PROJECT**
+> ### 🎮 Snake Game
+> The classic snake game made in Python!
+> 
+> -> [View Code](https://github.com/CameronCSS/100_Days_of_Python/blob/main/snake/README.md)
 
 
 <hr>
