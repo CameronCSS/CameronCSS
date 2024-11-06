@@ -53,7 +53,7 @@ Why doesn't everyone use  YYYY-MM-DD??
 <hr>
 
 > [!TIP]
-> ### :computer: View ALL My Projects here [👉 GITHUB PORTFOLIO](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md)
+> ### :computer: View ALL My Projects here [👉 GITHUB PORTFOLIO](https://cameroncss.github.io/PersonalProjects/)
 
 
 <hr>
