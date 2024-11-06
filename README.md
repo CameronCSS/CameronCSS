@@ -20,15 +20,16 @@ Why doesn't everyone use  YYYY-MM-DD??
 > Currently on a DEEP DIVE into data engineering, DSA, and more advanced python coding. 
 
 ### Skills:
-- Python
-- SQL
-- Tableau
-- Excel
-- Exploratory Data Analysis
-- ETL & ELT
-- Web Scraping
-- Ensuring clean, high-quality data
-- Optimizing data pipelines (My first Snowflake bill vs every month after can be proof of this!)
+- [Python](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md#Python)
+- [SQL](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md#SQL-Queries)
+- [Tableau](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md#Tableau)
+- [Excel](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md#Excel)
+- [Exploratory Data Analysis](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis)
+- [ETL & ELT](https://github.com/CameronCSS/Azure_Map_API/blob/master/README.md)
+- [Web Scraping](https://github.com/CameronCSS/Programming-Languages/blob/main/Data%20Notebooks/Python%20Job%20scraping.ipynb)
+- [Ensuring clean, high-quality data](https://github.com/CameronCSS/Survey_Monkey_Data)
+- [Backend and Frontend Development](https://github.com/CameronCSS/test-projects)
+- [Optimizing data pipelines](https://github.com/CameronCSS/Programming-Languages/blob/main/Data%20Notebooks/Price%20Comparison.ipynb) (My Snowflake bill is proof of this! 😂)
 
 
 ----
