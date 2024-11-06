@@ -20,10 +20,10 @@ Why doesn't everyone use  YYYY-MM-DD??
 > Currently on a DEEP DIVE into data engineering, DSA, and more advanced python coding. 
 
 ### Skills:
-- [Python](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md#Python)
-- [SQL](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md#SQL-Queries)
-- [Tableau](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md#Tableau)
-- [Excel](https://github.com/CameronCSS/PersonalProjects/blob/main/README.md#Excel)
+- [Python](https://cameroncss.github.io/PersonalProjects/#Python)
+- [SQL](https://cameroncss.github.io/PersonalProjects/#SQL-Queries)
+- [Tableau](https://public.tableau.com/views/RWFDEmployeeDemographics/DemographicsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Excel](https://cameroncss.github.io/PersonalProjects/#Excel)
 - [Exploratory Data Analysis](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis)
 - [ETL & ELT](https://github.com/CameronCSS/Azure_Map_API/blob/master/README.md)
 - [Web Scraping](https://github.com/CameronCSS/Programming-Languages/blob/main/Data%20Notebooks/Python%20Job%20scraping.ipynb)
