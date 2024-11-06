@@ -21,7 +21,7 @@ Why doesn't everyone use  YYYY-MM-DD??
 
 ### Skills:
 - [Python](https://cameroncss.github.io/PersonalProjects/#Python)
-- [SQL](https://cameroncss.github.io/PersonalProjects/#SQL-Queries)
+- [SQL](https://www.youtube.com/@CamDoesData)
 - [Tableau](https://public.tableau.com/views/RWFDEmployeeDemographics/DemographicsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 - [Excel](https://cameroncss.github.io/PersonalProjects/#Excel)
 - [Exploratory Data Analysis](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis)
