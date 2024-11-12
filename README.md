@@ -24,7 +24,7 @@ Why doesn't everyone use  YYYY-MM-DD??
 - [SQL](https://www.youtube.com/@CamDoesData)
 - [Tableau](https://public.tableau.com/views/RWFDEmployeeDemographics/DemographicsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 - [Excel](https://cameroncss.github.io/PersonalProjects/#Excel)
-- [Exploratory Data Analysis](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis)
+- [Exploratory Data Analysis](https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/README.md)
 - [ETL & ELT](https://github.com/CameronCSS/Azure_Map_API/blob/master/README.md)
 - [Web Scraping](https://github.com/CameronCSS/Programming-Languages/blob/main/Data%20Notebooks/Python%20Job%20scraping.ipynb)
 - [Ensuring clean, high-quality data](https://github.com/CameronCSS/Survey_Monkey_Data)
