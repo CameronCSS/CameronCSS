@@ -17,7 +17,7 @@ Why doesn't everyone use  YYYY-MM-DD??
 <sup>*(I hope you can feel my personality through the screen right now!)*</sup>
 
 > [!NOTE] 
-> Currently on a DEEP DIVE into data engineering, DSA, and more advanced python coding. 
+> Currently learning data engineering, DSA, and more advanced python coding. 
 
 ### Skills:
 - [Python](https://cameroncss.github.io/PersonalProjects/#Python)
