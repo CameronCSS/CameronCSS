@@ -41,10 +41,10 @@ Why doesn't everyone use  YYYY-MM-DD??
 
 > [!IMPORTANT]
 > ## **LATEST PROJECT**
-> ### 🎮 Snake Game
-> The classic snake game made in Python!
+> ### ✂️ Background Removal Tool
+> A simple tool that removes backgrounds from images using the rembg library. Built with Flask and deployed with Docker.
 > 
-> -> [View Code](https://github.com/CameronCSS/100_Days_of_Python/blob/main/snake/README.md)
+> -> [Try it out!](https://bg.camdoesdata.com/)
 
 
 <hr>
