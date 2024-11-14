@@ -44,7 +44,11 @@ Why doesn't everyone use  YYYY-MM-DD??
 > ### ✂️ Background Removal Tool
 > A simple tool that removes backgrounds from images using the rembg library. Built with Flask and deployed with Docker.
 > 
-> -> [Try it out!](https://bg.camdoesdata.com/)
+> -> <span>
+      <a href="https://github.com/CameronCSS/background-removal-tool" target="_blank">See the Code</a>
+      <span style="margin: 0 10px;">|</span>
+      <a href="https://bg.camdoesdata.com/" target="_blank">Try it out!</a>
+    </span>
 
 
 <hr>
