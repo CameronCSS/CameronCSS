@@ -6,7 +6,7 @@
 
 ## 👋 Hi there! I'm Cameron
 
-I love Data and Programming!! <br>
+I love writing code!! <br>
 And I REALLY love to ask ```WHY!?``` 
 
 ```python 
@@ -17,7 +17,7 @@ Why doesn't everyone use  YYYY-MM-DD??
 <sup>*(I hope you can feel my personality through the screen right now!)*</sup>
 
 > [!NOTE] 
-> Currently learning data engineering, DSA, and more advanced python coding. 
+> Currently learning software engineering, DSA, and more advanced coding. 
 
 ### Skills:
 - [Python](https://cameroncss.github.io/PersonalProjects/#Python)
