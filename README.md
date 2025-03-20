@@ -17,19 +17,14 @@ Why doesn't everyone use  YYYY-MM-DD??
 <sup>*(I hope you can feel my personality through the screen right now!)*</sup>
 
 > [!NOTE] 
-> Currently learning software engineering, DSA, and more advanced coding. 
+> Currently pursuing my B.S. in Software Engineering
 
-### Skills:
-- [Python](https://cameroncss.github.io/PersonalProjects/#Python)
-- [SQL](https://www.youtube.com/@CamDoesData)
-- [Tableau](https://public.tableau.com/views/RWFDEmployeeDemographics/DemographicsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
-- [Excel](https://cameroncss.github.io/PersonalProjects/#Excel)
-- <a href="https://github.com/CameronCSS/Data-Analysis/tree/main/Exploratory%20data%20analysis/README.md" target="_blank">Exploratory Data Analysis</a>
-- [ETL & ELT](https://github.com/CameronCSS/Azure_Map_API/blob/master/README.md)
-- [Web Scraping](https://github.com/CameronCSS/Programming-Languages/blob/main/Data%20Notebooks/Python%20Job%20scraping.ipynb)
-- [Ensuring clean, high-quality data](https://github.com/CameronCSS/Survey_Monkey_Data)
-- [Backend and Frontend Development](https://github.com/CameronCSS/test-projects)
-- [Optimizing data pipelines](https://github.com/CameronCSS/Programming-Languages/blob/main/Data%20Notebooks/Price%20Comparison.ipynb) (My Snowflake bill is proof of this! 😂)
+Skills & Expertise:
+- Python | SQL | JavaScript | AWS | Cloud / distributed compute
+- Data Analysis | ETL & ELT | Web Scraping
+- Exploratory Data Analysis | Data Quality Assurance
+- Backend & Frontend Development
+- Optimizing Data Pipelines (My Snowflake bill is proof of this! 😂)
 
 
 <hr>
