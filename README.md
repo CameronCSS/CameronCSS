@@ -11,7 +11,7 @@ And I REALLY love to ask ```WHY!?```
 
 ```python 
 Why were sales down this month. 
-Why did we gain a bunch of customers yesterday?
+Why does my code work on the second try but not the first?
 Why doesn't everyone use  YYYY-MM-DD??
 ```
 <sup>*(I hope you can feel my personality through the screen right now!)*</sup>
