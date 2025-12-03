@@ -17,7 +17,7 @@ Why doesn't everyone use  YYYY-MM-DD??
 <sup>*(I hope you can feel my personality through the screen right now!)*</sup>
 
 > [!NOTE] 
-> Currently pursuing my B.S. in Software Engineering
+> Currently pursuing my B.S. in Data Engineering
 
 Skills & Expertise:
 - Python | SQL | JavaScript | AWS | Cloud / distributed compute
