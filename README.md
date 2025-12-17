@@ -4,9 +4,13 @@
 </p>
 
 
-## 👋 Hi there! I'm Cameron
+## 👋 Hi, I'm Cameron
+<code>📈 Digesting data nuggets since 2020</code>
 
-I love writing code!! <br>
+> [!NOTE] 
+> Currently pursuing my B.S. in Data Engineering
+
+I love writing code, digging through data, <br>
 And I REALLY love to ask ```WHY!?``` 
 
 ```python 
@@ -16,8 +20,6 @@ Why doesn't everyone use  YYYY-MM-DD??
 ```
 <sup>*(I hope you can feel my personality through the screen right now!)*</sup>
 
-> [!NOTE] 
-> Currently pursuing my B.S. in Data Engineering
 
 Skills & Expertise:
 - Python | SQL | JavaScript | AWS | Cloud / distributed compute
