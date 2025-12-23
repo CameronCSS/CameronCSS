@@ -8,7 +8,7 @@
 <code>📈 Digesting data nuggets since 2020</code>
 
 > [!NOTE] 
-> Currently pursuing my B.S. in Data Engineering
+> Currently pursuing my B.S. in Software Engineering
 
 I love writing code, digging through data, <br>
 And I REALLY love to ask ```WHY!?``` 
