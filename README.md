@@ -19,16 +19,6 @@ Why does my code work on the second try but not the first?
 Why doesn't everyone use  YYYY-MM-DD??
 ```
 <sup>*(I hope you can feel my personality through the screen right now!)*</sup>
-
-
-Skills & Expertise:
-- Python | SQL | JavaScript | AWS | Cloud / distributed compute
-- Data Analysis | ETL & ELT | Web Scraping
-- Exploratory Data Analysis | Data Quality Assurance
-- Backend & Frontend Development
-- Optimizing Data Pipelines (My Snowflake bill is proof of this! 😂)
-
-
 <hr>
 
 > [!TIP]
@@ -47,24 +37,6 @@ Skills & Expertise:
       <a href="https://bg.camdoesdata.com/" target="_blank">Try it out!</a>
     </span>
 
-
-<hr>
-
-
-## 📺 **Latest YouTube Videos**
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![HOW TO create your own data for data analysis](https://ytcards.demolab.com/?id=kjffmtKYxwY&title=HOW+TO+create+your+own+data+for+data+analysis&lang=en&timestamp=1732170948&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "HOW TO create your own data for data analysis")](https://www.youtube.com/watch?v=kjffmtKYxwY)
-[![Twitter Interview Question - Bucket Counts - Data Analyst SQL practice problem](https://ytcards.demolab.com/?id=-FmTwp4zRqg&title=Twitter+Interview+Question+-+Bucket+Counts+-+Data+Analyst+SQL+practice+problem&lang=en&timestamp=1730473200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Twitter Interview Question - Bucket Counts - Data Analyst SQL practice problem")](https://www.youtube.com/watch?v=-FmTwp4zRqg)
-[![Advanced SQL JOINs Tutorial | Solving HackerRank Intermediate 'Placements' Interview Question](https://ytcards.demolab.com/?id=Ip1t1zmaAMg&title=Advanced+SQL+JOINs+Tutorial+%7C+Solving+HackerRank+Intermediate+%27Placements%27+Interview+Question&lang=en&timestamp=1729864311&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Advanced SQL JOINs Tutorial | Solving HackerRank Intermediate 'Placements' Interview Question")](https://www.youtube.com/watch?v=Ip1t1zmaAMg)
-[![SQL Coding Interview Question for Data Analyst - Leetcode Medium problem and solution](https://ytcards.demolab.com/?id=59_9zmu0FKk&title=SQL+Coding+Interview+Question+for+Data+Analyst+-+Leetcode+Medium+problem+and+solution&lang=en&timestamp=1729692004&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SQL Coding Interview Question for Data Analyst - Leetcode Medium problem and solution")](https://www.youtube.com/watch?v=59_9zmu0FKk)
-[![SQL Interview Questions: Solving random Leetcode questions for Data Analyst - Unique employee IDs](https://ytcards.demolab.com/?id=6uKAfCImzSw&title=SQL+Interview+Questions%3A+Solving+random+Leetcode+questions+for+Data+Analyst+-+Unique+employee+IDs&lang=en&timestamp=1729231933&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SQL Interview Questions: Solving random Leetcode questions for Data Analyst - Unique employee IDs")](https://www.youtube.com/watch?v=6uKAfCImzSw)
-[![Data Analyst Interview Questions: Solving Leetcode Medium SQL question](https://ytcards.demolab.com/?id=sdvfbAO5kQ4&title=Data+Analyst+Interview+Questions%3A+Solving+Leetcode+Medium+SQL+question&lang=en&timestamp=1729140257&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Data Analyst Interview Questions: Solving Leetcode Medium SQL question")](https://www.youtube.com/watch?v=sdvfbAO5kQ4)
-<!-- END YOUTUBE-CARDS -->
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CameronCSS&layout=compact&hide=css,c,html,powershell&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ----
