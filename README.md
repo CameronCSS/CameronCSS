@@ -9,10 +9,10 @@
 
 # 👋 Hi, I'm Cameron <sub><sup><code>Curious by default • Builder by choice</code></sup></sub>
 
-**What I love doing:**
+**What I love to do:**
 - [x] Build useful software
 - [x] Build silly useless apps
-- [x] Working with data
+- [x] Dig through data
 - [x] Understanding complex ideas
 - [ ] Stop Learning
 
@@ -34,8 +34,6 @@
 - Data projects (ETL, modeling, pipelines)
 - Ongoing learning in Java, Python, and system design
 
-![Most Used Languages](./languages.svg)
-
 ---
 
 
@@ -47,6 +45,11 @@ Removes image backgrounds using `rembg`.
 Built with **Flask** and **Docker**.
 
 → <a href="https://github.com/CameronCSS/background-removal-tool">View Code</a> | <a href="https://bg.camdoesdata.com/">Live Demo</a>
+
+---
+
+## ✅ Programming Languages
+![Most Used Languages](./languages.svg)
 
 
 ---
