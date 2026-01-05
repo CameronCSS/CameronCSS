@@ -22,6 +22,11 @@
 > [!IMPORTANT]
 >  ## New projects will be on my **[Self-hosted Github](https://git.camcodes.dev/Cameron)**
 
+> [!NOTE]
+> *Expirements will remain on Self-hosted Git*
+> 
+> As projects mature, **production-ready and capstone work is pushed to GitHub**.
+
 
 ## 🧰 What You'll Find There
 
@@ -34,13 +39,16 @@
 
 ---
 
-# 🚀 Current Projects
 
-| 📝 **Project** | 🧠 **Focus** | 🔗 **Link** |
-|---------------|-------------|------------|
-| 🧪 **Data Lab** | Data modeling, pipelines, system design | [View Repository](https://git.camcodes.dev/Cameron/Data_Lab) |
-| ☕ **Java Learning Journey** | Java fundamentals, OOP, backend basics | [View Projects](https://git.camcodes.dev/Cameron/java_practice/src/branch/main/practice_projects/src) |
-| 🏦 **Bank Data Project** | Banking data pipeline, validation, ETL | [View Code](https://git.camcodes.dev/Cameron/Data_Lab/src/branch/main/Scripts) |
+## ⭐ Latest Capstone Project
+<code>Capstone projects are fully built, documented, and deployed applications.</code>
+
+### 🖼️ Background Removal Tool
+Removes image backgrounds using `rembg`.  
+Built with **Flask** and **Docker**.
+
+→ <a href="https://github.com/CameronCSS/background-removal-tool">View Code</a> | <a href="https://bg.camdoesdata.com/">Live Demo</a>
+
 
 ---
 
