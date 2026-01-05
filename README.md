@@ -34,7 +34,7 @@
 - Data projects (ETL, modeling, pipelines)
 - Ongoing learning in Java, Python, and system design
 
-![Most Used Languages](./metrics.details.svg)
+![Most Used Languages](./languages.svg)
 
 ---
 
