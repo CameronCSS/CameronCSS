@@ -48,7 +48,7 @@ Built with **Flask** and **Docker**.
 
 ---
 
-## ✅ Programming Languages
+## 💻 Programming Languages
 ![Most Used Languages](./languages.svg)
 
 
