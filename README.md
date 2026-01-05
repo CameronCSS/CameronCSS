@@ -34,18 +34,13 @@
 
 ---
 
-# 🚀 Latest Project
+# 🚀 Current Projects
 
-### ✂️ Background Removal Tool
-
-A lightweight web application that removes backgrounds from images using the `rembg` library.  
-Built with **Flask**, containerized with **Docker**, and deployed as a standalone service.
-
-→ <span>
-  <a href="https://github.com/CameronCSS/background-removal-tool" target="_blank">View the Code</a>
-  <span style="margin: 0 10px;">|</span>
-  <a href="https://bg.camdoesdata.com/" target="_blank">Live Demo</a>
-</span>
+| 📝 **Project** | 🧠 **Focus** | 🔗 **Link** |
+|---------------|-------------|------------|
+| 🧪 **Data Lab** | Data modeling, pipelines, system design | [View Repository](https://git.camcodes.dev/Cameron/Data_Lab) |
+| ☕ **Java Learning Journey** | Java fundamentals, OOP, backend basics | [View Projects](https://git.camcodes.dev/Cameron/java_practice/src/branch/main/practice_projects/src) |
+| 🏦 **Bank Data Project** | Banking data pipeline, validation, ETL | [View Code](https://git.camcodes.dev/Cameron/Data_Lab/src/branch/main/Scripts) |
 
 ---
 
