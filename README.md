@@ -5,46 +5,41 @@
 
 <a name="readme-top"></a>
 
-# 👨‍💻 About Me
+# 👋 Hi, I'm Cameron 
 
-# 👋 Hi, I'm Cameron <sub><sup><code>Curious by default • Builder by choice</code></sup></sub>
-
-**What I love to do:**
-- [x] Build useful software
-- [x] Build silly useless apps
-- [x] Dig through data
+**What I love:**
+- [x] Building useful software
+- [x] Making silly *useless* apps
+- [x] Digging through data
 - [x] Understanding complex ideas
-- [ ] Stop Learning
 
 ---
 
 > [!IMPORTANT]
->  ## New projects will be on my **[Self-hosted Github](https://git.camcodes.dev/Cameron)**
-
-> [!NOTE]
-> *Expirements will remain on Self-hosted Git*
+> ## ❗Latest Project
+>
+> ### 🖼️ Background Removal Tool
+> Removes image backgrounds using `rembg`.  
+> Built with **Flask** and **Docker**.
 > 
-> As projects mature, **production-ready and capstone work is pushed to GitHub**.
+> → <a href="https://github.com/CameronCSS/background-removal-tool">View Code</a> | <a href="https://bg.camdoesdata.com/">Live Demo</a>
 
 
-## 🧰 What You'll Find There
+---
+
+## 🧰 Check out my **[Self-hosted Github](https://git.camcodes.dev/Cameron)**
+
+### What You'll Find There
 
 - Self-hosted applications
 - Backend-focused tools and services
 - Data projects (ETL, modeling, pipelines)
 - Ongoing learning in Java, Python, and system design
 
----
-
-
-## ⭐ Latest Capstone Project
-<code>Capstone projects are fully built, documented, and deployed applications.</code>
-
-### 🖼️ Background Removal Tool
-Removes image backgrounds using `rembg`.  
-Built with **Flask** and **Docker**.
-
-→ <a href="https://github.com/CameronCSS/background-removal-tool">View Code</a> | <a href="https://bg.camdoesdata.com/">Live Demo</a>
+> [!NOTE]
+> *Expirements will remain on Self-hosted Git*
+> 
+> As projects mature, **production-ready work is pushed to GitHub**.
 
 ---
 
