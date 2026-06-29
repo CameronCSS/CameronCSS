@@ -27,21 +27,6 @@
 
 ---
 
-## 🧰 Check out my **[Self-hosted Github](https://git.camcodes.dev/Cameron)**
-
-### What You'll Find There
-
-- Self-hosted applications
-- Backend-focused tools and services
-- Data projects (ETL, modeling, pipelines)
-- Ongoing learning in Java, Python, and system design
-
-> [!NOTE]
-> *Expirements will remain on Self-hosted Git*
-> 
-> As projects mature, **production-ready work is pushed to GitHub**.
-
----
 
 ## 💻 Programming Languages
 ![Most Used Languages](./languages.svg)
