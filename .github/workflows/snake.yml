@@ -2,25 +2,21 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: CameronCSS
-          args: >-
-            --color_snake=#3b82f6
-            --color_dots=#14b8a6
-            --color_empty=#0f172a
-            --color_background=#0f172a
-        outputs: |
-          dist/github-contribution-grid-snake.svg
-          dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          color_snake: "#3b82f6"
+          color_dots: "#14b8a6"
+          color_empty: "#0f172a"
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
