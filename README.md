@@ -26,7 +26,7 @@ Professional builder of things nobody asked for. Accidental creator of things pe
 - [x] Coding
 - [x] Making silly apps
 - [x] Learning new things
-- [ ] Debugging until 3am
+- [ ] D̵e̵b̵u̵g̵g̵i̵n̵g̵ u̵n̵t̵i̵l̵ 3̵a̵m̵
 
 ## 💻 Tech Stack
 
