@@ -20,7 +20,7 @@
 
 &nbsp;&nbsp;Hi! 👋 I'm **Cameron**
 
-&nbsp;&nbsp;&nbsp;&nbsp;Professional builder of things nobody asked for. Accidental creator of things people actually need. I just love tinkering and seeing what I can build! 
+Professional builder of things nobody asked for. Accidental creator of things people actually need. I just love tinkering and seeing what I can build!
 
 **What I love:**
 - [x] Coding
@@ -65,10 +65,6 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cameroncss&hide_border=true&background=0f172a&ring=3b82f6&fire=06b6d4&currStreakLabel=3b82f6&sideLabels=64748b&dates=94a3b8&currStreakNum=f2f2f2&sideNums=f2f2f2&border_radius=16" height="170"/>
-
-<br/><br/>
-
-## 🐍 Snaking My Way Through Contributions
 
 <br/>
 <picture>
