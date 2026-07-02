@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+useful+software+⚙️;Making+silly+useless+apps+🧪;Digging+through+data+📊;Always+learning+🧠)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06b6d4&center=true&vCenter=true&width=650&lines=Building+useful+software+⚙️;Making+silly+useless+apps+🧪;Digging+through+data+📊;Always+learning+🧠)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,10 +18,9 @@
 <img align="right" width="320" src="https://github.com/user-attachments/assets/2688b458-7fb9-4118-9596-16a0ed3c16f6" style="border-radius:16px; margin-left:20px"/>
 
 
-&nbsp;&nbsp;Hi! I'm **Cameron** 👋
+&nbsp;&nbsp;Hi! 👋 I'm **Cameron**
 
-&nbsp;&nbsp;I love building apps that are not only functional,  
-&nbsp;&nbsp;but genuinely *smart* and ACTUALLY *useful*.
+&nbsp;&nbsp;&nbsp;&nbsp;Professional builder of things nobody asked for. Accidental creator of things people actually need. I just love tinkering and seeing what I can build! 
 
 **What I love:**
 - [x] Coding
