@@ -37,28 +37,28 @@
 
 ---
 
+### Cloud/DevOps
+![GCP](https://img.shields.io/badge/GCP-3b82f6?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1e3a8a?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-06b6d4?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### Data & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3b82f6?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-1e3a8a?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
 ### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-06b6d4?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3b82f6?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
-### Data & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3b82f6?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-64748b?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-1e3a8a?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
 ### Frontend
 ![Vue](https://img.shields.io/badge/Vue-14b8a6?style=for-the-badge&logo=vue.js&logoColor=white)
 
----
-
-### Cloud/DevOps
-![GCP](https://img.shields.io/badge/GCP-3b82f6?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1e3a8a?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-06b6d4?style=for-the-badge&logo=docker&logoColor=white)
 ---
 
 <br/>
