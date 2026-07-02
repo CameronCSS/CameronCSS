@@ -30,14 +30,14 @@
 
 ## 💻 Tech Stack
 
-### Core Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-06b6d4?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-1e3a8a?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
-### Backend Systems
+### Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-06b6d4?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3b82f6?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -51,7 +51,7 @@
 ---
 
 ### Frontend
-![Vue](https://img.shields.io/badge/Vue-3b82f6?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-14b8a6?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ---
 
@@ -88,7 +88,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-css/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white)](https://CamDoesData.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1e3a8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CameronCSS)
+[![GitHub](https://img.shields.io/badge/GitHub-374151?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CameronCSS)
+[![Kaggle](https://img.shields.io/badge/Kaggle-14b8a6?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/cameronseamons)
 [![Email](https://img.shields.io/badge/Email-64748b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:CameronSeamons@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-3b82f6?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1YaM4hDtt2-79ShBVTN06Y3BU79LvFw6J/view)
 
