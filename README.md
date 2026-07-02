@@ -15,7 +15,8 @@
 
 ## About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" style="border-radius:16px; margin-left:20px"/>
+<img align="right" width="320" src="https://github.com/user-attachments/assets/2688b458-7fb9-4118-9596-16a0ed3c16f6" style="border-radius:16px; margin-left:20px"/>
+
 
 &nbsp;&nbsp;Hi! I'm **Cameron** 👋
 
