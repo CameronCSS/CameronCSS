@@ -22,8 +22,8 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake,
-            lex, cmake, shell, gnuplot, PowerShell
-          plugin_languages_limit: 4
+            lex, cmake, shell, gnuplot, PowerShell, Jupyter Notebook 
+          plugin_languages_limit: 5
 
       - name: LeetCode
         uses: lowlighter/metrics@latest
