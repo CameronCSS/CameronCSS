@@ -68,6 +68,9 @@ Professional builder of things nobody asked for. Accidental creator of things pe
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cameroncss&hide_border=true&background=0f172a&ring=3b82f6&fire=06b6d4&currStreakLabel=3b82f6&sideLabels=64748b&dates=94a3b8&currStreakNum=f2f2f2&sideNums=f2f2f2&border_radius=16" height="170"/>
 
 <br/>
+
+![Most Used Languages](./languages.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CameronCSS/CameronCSS/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CameronCSS/CameronCSS/output/github-snake.svg"/>
