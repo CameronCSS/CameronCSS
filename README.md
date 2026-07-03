@@ -9,11 +9,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06b6d4&center=true&vCenter=true&width=650&lines=Building+useful+software+⚙️;Making+silly+useless+apps+🧪;Digging+through+data+📊;Always+learning+🧠)](https://git.io/typing-svg)
-
 </div>
 
-## About Me
+<div align="center">
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&width=650&lines=◂+About+Me+▸;I+Build+useful+software+⚙️;I+Make+silly+apps+🧪;I+Dig+through+the+data+📊;I'm+Always+learning+🧠)](https://git.io/typing-svg)
+
+</div>
 
 <img align="right" width="320" src="https://github.com/user-attachments/assets/2688b458-7fb9-4118-9596-16a0ed3c16f6" style="border-radius:16px; margin-left:20px"/>
 
@@ -28,37 +30,65 @@ Professional builder of things nobody asked for. Accidental creator of things pe
 - [x] Learning new things
 - [ ] D̵e̵b̵u̵g̵g̵i̵n̵g̵ u̵n̵t̵i̵l̵ 3̵a̵m̵
 
-## 💻 Tech Stack
+> [!NOTE]
+> <p>
+>   <img src="https://img.shields.io/badge/LATEST_PROJECT-171A21?style=for-the-badge&logo=github&logoColor=AFB3F7" />
+> </p>
+>
+> ### Portfolio OS - Interactive developer portfolio
+>
+> <p>
+>   <img src="https://img.shields.io/badge/Svelte-1f2937?style=for-the-badge&logo=svelte&logoColor=ff3e00" />
+>   <img src="https://img.shields.io/badge/Node.js_22-1f2937?style=for-the-badge&logo=nodedotjs&logoColor=green" />
+>   <img src="https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=2496ED" />
+> </p>
+>
+> <p>
+>   <a href="https://camcodes.dev" target="_blank">
+>     <img src="https://img.shields.io/badge/LIVE_DEMO-3b82f6?style=for-the-badge&logo=rocket&logoColor=171A21" />
+>   </a>
+> </p>
+
+---
+
+<div align="left">
+  
+# <img width="981" height="66" alt="tech stack" src="https://github.com/user-attachments/assets/f0d68945-c2ac-4675-8664-ed97a449ac7b" />
+
+
+
+
+</div>
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-06b6d4?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1e3a8a?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
 ### Cloud/DevOps
-![GCP](https://img.shields.io/badge/GCP-3b82f6?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1e3a8a?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-06b6d4?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ---
 
 ### Data & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3b82f6?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-1e3a8a?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D)
 
 ---
 
 ### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-06b6d4?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-3b82f6?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
 ### Frontend
-![Svelte](https://img.shields.io/badge/Svelte-06b6d4?style=for-the-badge&logo=svelte&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1e3a8a?style=for-the-badge&logo=css&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-111827?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![CSS](https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css&logoColor=1572B6)
 
 ---
 
