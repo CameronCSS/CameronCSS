@@ -45,7 +45,7 @@ Professional builder of things nobody asked for. Accidental creator of things pe
 >
 > <p>
 >   <a href="https://camcodes.dev" target="_blank">
->     <img src="https://img.shields.io/badge/LIVE_DEMO-3b82f6?style=for-the-badge&logo=rocket&logoColor=171A21" />
+>     <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-red?style=for-the-badge&logo=rocket&logoColor=171A21" />
 >   </a>
 > </p>
 
