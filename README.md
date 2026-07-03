@@ -58,6 +58,7 @@ Professional builder of things nobody asked for. Accidental creator of things pe
 
 ### Frontend
 ![Svelte](https://img.shields.io/badge/Svelte-06b6d4?style=for-the-badge&logo=svelte&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1e3a8a?style=for-the-badge&logo=css&logoColor=white)
 
 ---
 
