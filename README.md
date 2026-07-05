@@ -32,11 +32,13 @@ Professional builder of things nobody asked for. Accidental creator of things pe
 
 > [!NOTE]
 > <p>
->   <img src="https://img.shields.io/badge/LATEST_PROJECT-171A21?style=for-the-badge&logo=github&logoColor=AFB3F7" />
+>   <img src="https://img.shields.io/badge/LATEST_PROJECT-0353a4?style=for-the-badge&logo=github&logoColor=f5f5f7" />
 > </p>
 >
-> ### Portfolio OS - Interactive developer portfolio
+> ### Portfolio OS
+> An interactive 'OS' inspired portfolio that reimagines the traditional developer website experience, with behavior adapted for both desktop and mobile devices.
 >
+> <sub>Made With</sub>
 > <p>
 >   <img src="https://img.shields.io/badge/Svelte-1f2937?style=for-the-badge&logo=svelte&logoColor=ff3e00" />
 >   <img src="https://img.shields.io/badge/Node.js_22-1f2937?style=for-the-badge&logo=nodedotjs&logoColor=green" />
@@ -45,7 +47,7 @@ Professional builder of things nobody asked for. Accidental creator of things pe
 >
 > <p>
 >   <a href="https://camcodes.dev" target="_blank">
->     <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-red?style=for-the-badge&logo=rocket&logoColor=171A21" />
+>     <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-5c677d?style=for-the-badge&logo=rocket&logoColor=001233" />
 >   </a>
 > </p>
 
