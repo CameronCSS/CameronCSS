@@ -13,7 +13,7 @@
 
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&width=650&lines=◂+About+Me+▸;I+Build+useful+software+⚙️;I+Make+silly+apps+🧪;I+Dig+through+the+data+📊;I'm+Always+learning+🧠)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&width=650&lines=◂+About+Me+▸;Cloud%20Developer%20@%20State%20of%20Utah;I+also+code+for+fun+👨🏻‍💻;I+Make+silly+apps+🧪;I+Dig+through+the+data+📊;I'm+Always+learning+🧠)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,6 +21,8 @@
 
 
 &nbsp;&nbsp;Hi! 👋 I'm **Cameron**
+<sub><sup><code>Curious by default • Builder by choice</code></sup></sub>
+
 
 Professional builder of things nobody asked for. Accidental creator of things people actually need. I just love tinkering and seeing what I can build!
 
@@ -29,6 +31,10 @@ Professional builder of things nobody asked for. Accidental creator of things pe
 - [x] Making silly apps
 - [x] Learning new things
 - [ ] D̵e̵b̵u̵g̵g̵i̵n̵g̵ u̵n̵t̵i̵l̵ 3̵a̵m̵
+
+Outside of my professional work, I enjoy coding personal projects, creating art, and spending quality time with my kids.
+
+---
 
 > [!NOTE]
 > <p>
