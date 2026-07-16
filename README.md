@@ -38,9 +38,9 @@ Outside of my professional work, I enjoy coding personal projects, creating art,
 
 > [!NOTE]
 > <p>
-  <a href="https://camcodes.dev" target="_blank">
+> <a href="https://camcodes.dev" target="_blank">
 >   <img src="https://img.shields.io/badge/LATEST_PROJECT-0353a4?style=for-the-badge&logo=github&logoColor=f5f5f7" />
-    </a>
+> </a>
 > </p>
 >
 > ### Portfolio OS
