@@ -126,7 +126,7 @@ Outside of my professional work, I enjoy coding personal projects, creating art,
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cameron-css/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white)](https://CamDoesData.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e3a8a?style=for-the-badge&logo=vercel&logoColor=white)](https://Camcodes.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-374151?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CameronCSS)
 [![Kaggle](https://img.shields.io/badge/Kaggle-14b8a6?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/cameronseamons)
 [![Email](https://img.shields.io/badge/Email-64748b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:CameronSeamons@gmail.com)
